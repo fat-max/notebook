@@ -1,1 +1,4 @@
-index.md
+## Index
+
+- Pyrotechnics
+    + [Stars](pyrotechnics/stars.md)
