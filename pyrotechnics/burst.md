@@ -54,6 +54,7 @@
 - [Yellow powder](#yellow-powder)
 
 
+
 ## Allen chlorate report #1
 
 ### Composition
@@ -63,6 +64,7 @@
 | Potassium chlorate | 58 |  |
 | Antimony trisulfide | 33 |  |
 | Rosin | 9 |  |
+
 
 ## Allen chlorate report #2
 
@@ -75,6 +77,7 @@
 | Charcoal | 5 |  |
 | Dextrin | 2 |  |
 
+
 ## Allen chlorate report #3
 
 ### Composition
@@ -84,6 +87,7 @@
 | Potassium chlorate | 57 |  |
 | Antimony trisulfide | 29 |  |
 | Rosin | 14 |  |
+
 
 ## Allen chlorate report #4
 
@@ -95,6 +99,7 @@
 | Charcoal | 25 | airfloat |
 | Red gum | 25 |  |
 
+
 ## Allen chlorate report #5
 
 ### Composition
@@ -104,6 +109,7 @@
 | Potassium chlorate | 55 |  |
 | Antimony trisulfide | 36 |  |
 | Red gum | 9 |  |
+
 
 ## Allen chlorate report #6
 
@@ -115,6 +121,7 @@
 | Antimony trisulfide | 33 |  |
 | Rosin | 10 |  |
 
+
 ## Allen chlorate report #7
 
 ### Composition
@@ -125,6 +132,7 @@
 | Antimony trisulfide | 15 |  |
 | Calcium carbonate | 29 |  |
 
+
 ## Allen report formula #1
 
 ### Composition
@@ -134,6 +142,7 @@
 | Potassium perchlorate | 57 |  |
 | Sulfur | 38 |  |
 | Sawdust | 5 |  |
+
 
 ## Allen report formula #2
 
@@ -146,6 +155,7 @@
 | Benzene | 3 |  |
 | Paraffin | 0.1 |  |
 
+
 ## Allen report formula #3
 
 ### Composition
@@ -155,6 +165,7 @@
 | Potassium perchlorate | 55 |  |
 | Sulfur | 18 |  |
 | Antimony trisulfide | 27 |  |
+
 
 ## Ammonium black powder
 
@@ -166,6 +177,7 @@
 | Charcoal | 6 | fine
 | Aluminium | 4 | dark pyro |
 
+
 ## Armostrong mix
 
 ### Composition
@@ -174,6 +186,7 @@
 |-----------|--------|------|
 | Potassium perchlorate | 70 |  |
 | Red phosphorus | 30 |  |
+
 
 ## Black Powder (Perchlorate)
 
@@ -185,6 +198,7 @@
 | Charcoal | 15 | airfloat |
 | Sulfur | 10 |  |
 
+
 ## BP - Blasting-specific
 
 ### Composition
@@ -194,6 +208,7 @@
 | Potassium nitrate | 40 |  |
 | Sulfur | 30 |  |
 | Sulfur | 30 |  |
+
 
 ## BP - Firearms-specific
 
@@ -205,6 +220,7 @@
 | Charcoal | 18 |  |
 | Sulfur | 3 |  |
 
+
 ## BP - General purpose
 
 ### Composition
@@ -214,6 +230,7 @@
 | Potassium nitrate | 75 |  |
 | Charcoal | 12.5 |  |
 | Sulfur | 12.5 |  |
+
 
 ## BP - Military-specific
 
@@ -225,6 +242,7 @@
 | Charcoal | 14 |  |
 | Sulfur | 10 |  |
 
+
 ## Brugere powder
 
 ### Composition
@@ -233,6 +251,7 @@
 |-----------|--------|------|
 | Potassium nitrate | 57 |  |
 | Ammonium picrate | 43 |  |
+
 
 ## Chlorate based report #1
 
@@ -246,6 +265,7 @@
 | Sulfur | 18 |  |
 | Sand | 4 |  |
 
+
 ## Chlorate based report #2
 
 ### Composition
@@ -257,6 +277,7 @@
 | Sulfur | 21 |  |
 | Antimony trisulfide | 5 |  |
 
+
 ## Chlorate based report #3
 
 ### Composition
@@ -266,6 +287,7 @@
 | Potassium chlorate | 56 |  |
 | Sulfur | 31 |  |
 | Lampblack | 13 |  |
+
 
 ## Craig report formula
 
@@ -280,6 +302,7 @@
 | Rosin | 10 |  |
 | Meal powder | 2 |  |
 
+
 ## Davis chlorate report
 
 ### Composition
@@ -288,6 +311,7 @@
 |-----------|--------|------|
 | Potassium chlorate | 50 |  |
 | Antimony trisulfide | 50 |  |
+
 
 ## Davis report formula #1
 
@@ -299,6 +323,7 @@
 | Charcoal | 8 | airfloat |
 | Rosin | 8 |  |
 
+
 ## Davis report formula #2
 
 ### Composition
@@ -309,6 +334,7 @@
 | Charcoal | 33 | airfloat |
 | Rosin | 33 |  |
 
+
 ## Degn report formula
 
 ### Composition
@@ -317,6 +343,7 @@
 |-----------|--------|------|
 | Potassium perchlorate | 70 |  |
 | Sodium salicylate | 30 |  |
+
 
 ## Exploding target composition
 
@@ -331,6 +358,7 @@
 | Aluminium | 10 |  |
 | Calcium carbonate | 5 |  |
 
+
 ## Faber chlorate report
 
 ### Composition
@@ -340,6 +368,7 @@
 | Potassium chlorate | 67 |  |
 | Sulfur | 16.5 |  |
 | Charcoal | 16.5 | airfloat |
+
 
 ## Gold Dust Powder
 
@@ -351,6 +380,7 @@
 | Potassium picrate | 25 |  |
 | Ammonium dichromate | 20 |  |
 
+
 ## H3
 
 ### Composition
@@ -360,6 +390,7 @@
 | Potassium chlorate | 70 |  |
 | Charcoal | 30 | Hemp or Paulownia |
 | Dextrin | 2 | binder
+
 
 ## H3 Bursting charge
 
@@ -371,6 +402,7 @@
 | Charcoal | 25 | Hemp or Paulownia |
 | SGRS | 2 |  |
 
+
 ## Hitt report formula #1
 
 ### Composition
@@ -381,6 +413,7 @@
 | Sulfur | 10 |  |
 | Antimony trisulfide | 35 |  |
 
+
 ## Hitt report formula #2
 
 ### Composition
@@ -390,6 +423,7 @@
 | Potassium perchlorate | 55 |  |
 | Sulfur | 3 |  |
 | Antimony trisulfide | 42 |  |
+
 
 ## KP
 
@@ -402,6 +436,7 @@
 | Sulfur | 12 |  |
 | SGRS | 2 | or Dextrin |
 
+
 ## Lang report formula
 
 ### Composition
@@ -413,6 +448,7 @@
 | Sulfur | 32 |  |
 | Zinc carbonate | 1 |  |
 | Stearin | 1 |  |
+
 
 ## Ofca bursting charge
 
@@ -427,6 +463,7 @@
 | Antimony trisulfide | 11 |  |
 | Aluminium | 22 | 325 mesh |
 
+
 ## Potassium perchlorate bursting charge #1
 
 ### Composition
@@ -436,6 +473,7 @@
 | Potassium perchlorate | 70 |  |
 | Charcoal | 30 | Hemp or Paulownia |
 | SGRS | 2 |  |
+
 
 ## Potassium perchlorate bursting charge #2
 
@@ -448,6 +486,7 @@
 | Potassium dichromate | 5 |  |
 | SGRS | 2 |  |
 
+
 ## Potassium perchlorate bursting charge #3
 
 ### Composition
@@ -459,6 +498,7 @@
 | Potassium dichromate | 5 |  |
 | SGRS | 2 |  |
 
+
 ## Psm report formula
 
 ### Composition
@@ -469,6 +509,7 @@
 | Sulfur | 30 |  |
 | Lampblack | 11 | or charcoal |
 
+
 ## Red Explosive
 
 ### Composition
@@ -477,6 +518,7 @@
 |-----------|--------|------|
 | Potassium chlorate | 63 |  |
 | Realgar | 37 |  |
+
 
 ## Rozzi chlorate report
 
@@ -488,6 +530,7 @@
 | Sulfur | 12.5 |  |
 | Antimony trisulfide | 37.5 |  |
 
+
 ## Rozzi small shell burst #1
 
 ### Composition
@@ -497,6 +540,7 @@
 | Potassium chlorate | 83.4 |  |
 | Charcoal | 8.3 |  |
 | Rosin | 8.3 |  |
+
 
 ## Rozzi small shell burst #2
 
@@ -508,6 +552,7 @@
 | Charcoal | 10 |  |
 | Lampblack | 10 |  |
 
+
 ## Shimizu H3
 
 ### Composition
@@ -518,6 +563,7 @@
 | Charcoal | 23 |  |
 | Dextrin | 2 |  |
 
+
 ## Sulfurless powders
 
 ### Composition
@@ -526,6 +572,7 @@
 |-----------|--------|------|
 | Potassium nitrate | 70.5 |  |
 | Charcoal | 29.5 |  |
+
 
 ## Toy Pistol Cap
 
@@ -537,6 +584,7 @@
 | Red phosphorus | 8 |  |
 | Sulfur | 32 |  |
 
+
 ## Weingart chlorate report #1
 
 ### Composition
@@ -546,6 +594,7 @@
 | Potassium chlorate | 67 |  |
 | Sulfur | 22 |  |
 | Antimony | 11 |  |
+
 
 ## Weingart chlorate report #2
 
@@ -558,6 +607,7 @@
 | Sulfur | 23 |  |
 | Antimony trisulfide | 5 |  |
 
+
 ## Weingart chlorate report #3
 
 ### Composition
@@ -567,6 +617,7 @@
 | Potassium chlorate | 60 |  |
 | Sulfur | 30 |  |
 | Charcoal | 10 | airfloat |
+
 
 ## Yellow powder
 

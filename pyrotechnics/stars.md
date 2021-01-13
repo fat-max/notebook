@@ -301,6 +301,7 @@
 - [Zinc spreader star #2](#zinc-spreader-star-2)
 - [Zinc spreader star #3](#zinc-spreader-star-3)
 
+
 ## Amber star 1
 
 ### Composition
@@ -312,6 +313,7 @@
 | Magnesium | 12.5 | 80 mesh|
 | Calcium fluoride | 6.25 | |
 | Calcium resinate | 6.25 | |
+
 
 ## Ammon green star brilliant
 
@@ -326,6 +328,7 @@
 | Potassium dichromate | 1.9 | |
 | SGRS | 4.8 | |
 
+
 ## Ammon red star brilliant
 
 ### Composition
@@ -338,6 +341,7 @@
 | Strontium carbonate | 9.5 | |
 | Potassium dichromate | 1.9 | |
 | SGRS | 4.8 | |
+
 
 ## Ammon yellow star brilliant
 
@@ -352,6 +356,7 @@
 | Potassium dichromate | 1.9 | |
 | SGRS | 4.8 | |
 
+
 ## Baechle amber 1
 
 ### Composition
@@ -364,6 +369,7 @@
 | Cryolite | 16 | |
 | Red gum | 12 | |
 | Dextrin | 4 | |
+
 
 ## Baechle amber 2
 
@@ -380,6 +386,7 @@
 | Parlon | 18 | |
 | Red gum | 4 | |
 
+
 ## Baechle amber 3
 
 ### Composition
@@ -390,6 +397,7 @@
 | Sodium oxalate | 22 | |
 | Magnesium | 17 | 100 mesh|
 | Rosin | 16 | |
+
 
 ## Baechle aqua star 1
 
@@ -405,6 +413,7 @@
 | Potassium benzoate | 5 | |
 | Dextrin | 4 | |
 
+
 ## Baechle aqua star 2
 
 ### Composition
@@ -416,6 +425,7 @@
 | Copper carbonate | 2 | |
 | Chlorowax | 2 | |
 | Dextrin | 2 | |
+
 
 ## Baechle aqua star 3
 
@@ -431,6 +441,7 @@
 | Chlorowax | 5 | |
 | Dextrin | 3 | |
 
+
 ## Better Pearl (Glitter)
 
 ### Composition
@@ -444,6 +455,7 @@
 | Aluminium | 10 | |
 | Dextrin | 5 | |
 
+
 ## Blankley metalic star dust
 
 ### Composition
@@ -455,6 +467,7 @@
 | Titanium | 8 | 60 mesh|
 | Sulfur | 8 | |
 | Dextrin | 5 | |
+
 
 ## Bleser aqua star
 
@@ -470,6 +483,7 @@
 | PVC | 5 | |
 | Dextrin | 4 | |
 
+
 ## Bleser Blond Streamer comet
 
 ### Composition
@@ -482,6 +496,7 @@
 | Dextrin | 5 | |
 | Ferrotitanium | 15 | 100 mesh|
 
+
 ## Bleser Blond Streamer comet 2
 
 ### Composition
@@ -492,6 +507,7 @@
 | Charcoal | 20 | mixed|
 | Dextrin | 5 | |
 | Ferrotitanium | 15 | 100 mesh|
+
 
 ## Bleser blue 1
 
@@ -507,6 +523,7 @@
 | Red gum | 10 | |
 | Dextrin | 4 | |
 
+
 ## Bleser blue 2
 
 ### Composition
@@ -517,6 +534,7 @@
 | Copper oxychloride | 11 | |
 | Hexamine | 17 | |
 | Dextrin | 4 | |
+
 
 ## Bleser Golden Flitter 13
 
@@ -530,6 +548,7 @@
 | Aluminium | 30 | dark pyro|
 | Dextrin | 6 | |
 
+
 ## Bleser green magnesium
 
 ### Composition
@@ -540,6 +559,7 @@
 | Magnesium | 18 | 100|
 | Parlon | 12 | |
 | PVC | 15 | |
+
 
 ## Bleser Green strobe
 
@@ -553,6 +573,7 @@
 | Hexachlorobenzene | 13 | |
 | Dextrin | 5 | |
 
+
 ## Bleser purple star 1
 
 ### Composition
@@ -565,6 +586,7 @@
 | PVC | 11 | |
 | Dextrin | 5 | |
 
+
 ## Bleser red magnesium
 
 ### Composition
@@ -575,6 +597,7 @@
 | Magnesium | 28 | 100|
 | Parlon | 10 | |
 | PVC | 7 | |
+
 
 ## Bleser Red organic star
 
@@ -589,6 +612,7 @@
 | Hexachlorobenzene | 2 | |
 | Dextrin | 4 | |
 
+
 ## Bleser Silver Flitter 14
 
 ### Composition
@@ -598,6 +622,7 @@
 | Potassium perchlorate | 33 | |
 | Aluminium | 61 | dark pyro|
 | Dextrin | 6 | |
+
 
 ## Bleser White strobe
 
@@ -611,6 +636,7 @@
 | Sulfur | 19 | |
 | Dextrin | 5 | |
 
+
 ## Bleser yellow magnesium
 
 ### Composition
@@ -623,6 +649,7 @@
 | Cryolite | 13 | |
 | Charcoal | 2 | |
 
+
 ## Blue Lancaster Pumped 1
 
 ### Composition
@@ -633,6 +660,7 @@
 | Colophony resin | 6 | |
 | Paris green | 22 | |
 | Dextrin | 4 | |
+
 
 ## Blue star 1
 
@@ -646,6 +674,7 @@
 | Red gum | 9 | |
 | Dextrin | 5 | |
 
+
 ## Blue star 2
 
 ### Composition
@@ -657,6 +686,7 @@
 | Copper | 20 | II|
 | Dextrin | 3 | |
 | Red gum | 6 | or Shellac|
+
 
 ## Blue star 5
 
@@ -670,6 +700,7 @@
 | Dextrin | 10 | |
 | PVC | 12 | |
 
+
 ## Blue star 6
 
 ### Composition
@@ -681,6 +712,7 @@
 | Mercurous chloride | 7.1 | |
 | Sulfur | 14.3 | |
 
+
 ## Blue star 7
 
 ### Composition
@@ -691,6 +723,7 @@
 | Copper sulfate | 26.08 | |
 | Lead chloride | 4.35 | |
 | Sulfur | 17.4 | |
+
 
 ## Blue star 11
 
@@ -704,6 +737,7 @@
 | Parlon | 9.1 | |
 | SGRS | 4.5 | |
 
+
 ## Blue star 12
 
 ### Composition
@@ -713,6 +747,7 @@
 | Ammonium perchlorate | 70 | |
 | Copper | 15 | II|
 | Shellac | 15 | |
+
 
 ## Blue star 13
 
@@ -724,6 +759,7 @@
 | Silicon | 10 | |
 | Copper | 10 | II|
 | PVC | 15 | |
+
 
 ## Blue star 14
 
@@ -737,6 +773,7 @@
 | Dextrin | 5 | |
 | Saran | 5 | |
 
+
 ## Blue star 15
 
 ### Composition
@@ -746,6 +783,7 @@
 | Ammonium perchlorate | 70 | |
 | Fimo | 20 | |
 | Malachite | 10 | powdered|
+
 
 ## Blue star 16
 
@@ -757,6 +795,7 @@
 | Copper carbonate | 20 | |
 | PVC | 15 | |
 | Dextrin | 5 | |
+
 
 ## Blue star with charcoal tail
 
@@ -770,6 +809,7 @@
 | Charcoal | 10 | |
 | Dextrin | 5 | |
 
+
 ## Brilliant core
 
 ### Composition
@@ -781,6 +821,7 @@
 | Boric acid | 1 | |
 | SGRS | 6 | |
 
+
 ## Brilliant white star
 
 ### Composition
@@ -790,6 +831,7 @@
 | Potassium perchlorate | 44.4 | |
 | Aluminium | 44.4 | dust|
 | Dextrin | 11.2 | |
+
 
 ## Changing Relay 1
 
@@ -802,6 +844,7 @@
 | Charcoal | 24 | Paulownia or Hemp|
 | SGRS | 6 | |
 
+
 ## Changing Relay 2
 
 ### Composition
@@ -811,6 +854,7 @@
 | Potassium perchlorate | 81 | |
 | Red gum | 13 | |
 | SGRS | 6 | |
+
 
 ## Chrysanthemum 6
 
@@ -823,6 +867,7 @@
 | Charcoal | 33 | |
 | Dextrin | 5 | or SGRS|
 
+
 ## Chrysanthemum 8
 
 ### Composition
@@ -834,6 +879,7 @@
 | Charcoal | 40 | |
 | Dextrin | 5 | or SGRS|
 
+
 ## Chrysanthemum of mystery
 
 ### Composition
@@ -843,6 +889,7 @@
 | Potassium nitrate | 45 | |
 | Charcoal | 50 | |
 | SGRS | 5 | |
+
 
 ## Clark white star
 
@@ -854,6 +901,7 @@
 | Barium nitrate | 8 | |
 | Aluminium | 37 | dark pyro|
 | Dextrin | 5 | |
+
 
 ## Conkling blue 1
 
@@ -867,6 +915,7 @@
 | Red gum | 7 | |
 | Dextrin | 5 | |
 
+
 ## Conkling blue 2
 
 ### Composition
@@ -879,6 +928,7 @@
 | Red gum | 6 | |
 | Dextrin | 5 | |
 
+
 ## Crackling microstars 1
 
 ### Composition
@@ -889,6 +939,7 @@
 | Magnalium | 15 | |
 | Copper | 10 | II|
 | Aluminium | 5 | 200 mesh atomized|
+
 
 ## Crackling microstars 2
 
@@ -901,6 +952,7 @@
 | Copper | 12.5 | II|
 | Aluminium | 5 | 200 mesh atomized|
 
+
 ## Davis amber star
 
 ### Composition
@@ -910,6 +962,7 @@
 | Potassium chlorate | 63 | |
 | Sodium oxalate | 25 | |
 | Shellac | 12 | 60 mesh|
+
 
 ## Davis blue 1
 
@@ -923,6 +976,7 @@
 | Ammonium chloride | 6 | |
 | Stearin | 6 | |
 
+
 ## Davis blue 2
 
 ### Composition
@@ -934,6 +988,7 @@
 | Copper sulfate | 26 | |
 | Lead chloride | 4 | |
 | Dextrin | 2 | |
+
 
 ## Davis Snowball star
 
@@ -949,6 +1004,7 @@
 | Aluminium | 6 | 12 micron|
 | Dextrin | 5 | |
 
+
 ## Davis white star 1
 
 ### Composition
@@ -960,6 +1016,7 @@
 | Sulfur | 17 | |
 | Dextrin | 4 | |
 
+
 ## Davis white star 2
 
 ### Composition
@@ -970,6 +1027,7 @@
 | Antimony | 12 | |
 | Sulfur | 19 | |
 | Dextrin | 2 | |
+
 
 ## Davis white star 3
 
@@ -984,6 +1042,7 @@
 | Charcoal | 1 | |
 | Dextrin | 2 | |
 
+
 ## Davis white star 4
 
 ### Composition
@@ -996,6 +1055,7 @@
 | Meal powder | 13 | |
 | Zinc | 7 | |
 
+
 ## Dragon eggs (Crackling star)
 
 ### Composition
@@ -1006,6 +1066,7 @@
 | Magnalium | 9.1 | 100|
 | Copper | 9.1 | II|
 | NC lacquer | 10 | by volume|
+
 
 ## Electric purple star
 
@@ -1020,6 +1081,7 @@
 | Hexamine | 7 | |
 | Dextrin | 5 | |
 
+
 ## Electric star 1
 
 ### Composition
@@ -1032,6 +1094,7 @@
 | Meal powder | 7.41 | |
 | Antimony trisulfide | 11.11 | |
 | Sulfur | 14.81 | |
+
 
 ## Electric star 2
 
@@ -1047,6 +1110,7 @@
 | Charcoal | 2 | |
 | Dextrin | 5 | |
 
+
 ## Electric star 3
 
 ### Composition
@@ -1058,6 +1122,7 @@
 | Aluminium | 71.43 | |
 | Dextrin | 3.57 | |
 
+
 ## Electric star 4
 
 ### Composition
@@ -1067,6 +1132,7 @@
 | Potassium perchlorate | 57.2 | |
 | Aluminium | 28.6 | medium|
 | Dextrin | 14.2 | |
+
 
 ## Electric violet stars
 
@@ -1082,6 +1148,7 @@
 | Charcoal | 5 | dust|
 | Dextrin | 5 | |
 
+
 ## Emerald Green
 
 ### Composition
@@ -1093,6 +1160,7 @@
 | Barium nitrate | 9 | |
 | Red gum | 22 | |
 | Dextrin | 4 | |
+
 
 ## Firefly 1
 
@@ -1107,6 +1175,7 @@
 | Aluminium | 4.5 | |
 | Dextrin | 5 | |
 
+
 ## Firefly 2
 
 ### Composition
@@ -1119,6 +1188,7 @@
 | Aluminium | 4.2 | 400 mesh|
 | Sulfur | 4.7 | |
 | Dextrin | 5.3 | |
+
 
 ## Firefly 3
 
@@ -1133,6 +1203,7 @@
 | Dextrin | 10 | |
 | Aluminium | 5 | firefly|
 
+
 ## Forli aqua 3 modified
 
 ### Composition
@@ -1145,6 +1216,7 @@
 | Parlon | 16 | |
 | Magnalium | 16 | |
 | Red gum | 4 | or Dextrin|
+
 
 ## Freeman aqua star 1
 
@@ -1161,6 +1233,7 @@
 | Parlon | 20 | |
 | Dextrin | 4 | |
 
+
 ## Freeman aqua star 2
 
 ### Composition
@@ -1176,6 +1249,7 @@
 | Hexachlorobenzene | 5 | |
 | Dextrin | 5 | |
 
+
 ## Freeman aqua star 3
 
 ### Composition
@@ -1189,6 +1263,7 @@
 | Hexachlorobenzene | 6 | |
 | Dextrin | 3 | |
 
+
 ## Glitter star
 
 ### Composition
@@ -1201,6 +1276,7 @@
 | Antimony trisulfide | 16 | |
 | Sulfur | 10 | |
 | Lampblack | 10 | |
+
 
 ## Gold flitter star
 
@@ -1216,6 +1292,7 @@
 | Aluminium | 11.11 | flake|
 | Dextrin | 8.89 | |
 
+
 ## Golden chrysanthemum
 
 ### Composition
@@ -1230,6 +1307,7 @@
 | Boric acid | 1 | |
 | SGRS | 7 | |
 
+
 ## Golden rain 1
 
 ### Composition
@@ -1239,6 +1317,7 @@
 | Potassium nitrate | 48 | |
 | Sulfur | 32 | |
 | Lampblack | 20 | |
+
 
 ## Golden rain 2
 
@@ -1250,6 +1329,7 @@
 | Sulfur | 9.5 | |
 | Lampblack | 9.5 | |
 | Iron | 33 | fine fillings|
+
 
 ## Golden twinkler star
 
@@ -1264,6 +1344,7 @@
 | Antimony trisulfide | 9 | |
 | Sodium oxalate | 11 | |
 
+
 ## Golden wave 1
 
 ### Composition
@@ -1275,6 +1356,7 @@
 | Antimony trisulfide | 9 | |
 | Boric acid | 1 | |
 | SGRS | 6 | |
+
 
 ## Golden wave 2
 
@@ -1288,6 +1370,7 @@
 | Boric acid | 1 | |
 | SGRS | 6 | |
 
+
 ## Golden wave 3
 
 ### Composition
@@ -1299,6 +1382,7 @@
 | Realgar | 9 | |
 | Boric acid | 1 | |
 | SGRS | 6 | |
+
 
 ## Granite Star
 
@@ -1312,6 +1396,7 @@
 | Sulfur | 4 | |
 | Dextrin | 2 | |
 
+
 ## Green star 1
 
 ### Composition
@@ -1324,6 +1409,7 @@
 | Red gum | 14.2 | |
 | SGRS | 5.6 | |
 
+
 ## Green star 2
 
 ### Composition
@@ -1334,6 +1420,7 @@
 | Potassium chlorate | 44 | |
 | Shellac | 12 | |
 
+
 ## Green star 3
 
 ### Composition
@@ -1343,6 +1430,7 @@
 | Barium nitrate | 50 | |
 | Magnesium | 32 | lab grade powder|
 | Parlon | 18 | or PVC|
+
 
 ## Green star 4
 
@@ -1355,6 +1443,7 @@
 | Ammonium perchlorate | 25 | |
 | Parlon | 17 | or PVC|
 
+
 ## Green star 5
 
 ### Composition
@@ -1366,6 +1455,7 @@
 | Parlon | 20 | |
 | Sulfur | 4 | |
 | Boric acid | 2 | |
+
 
 ## Green star 6
 
@@ -1382,6 +1472,7 @@
 | Boric acid | 2 | |
 | Dextrin | 2 | |
 
+
 ## Green star 7
 
 ### Composition
@@ -1391,6 +1482,7 @@
 | Ammonium perchlorate | 50 | |
 | Barium nitrate | 35 | |
 | Shellac | 15 | |
+
 
 ## Green star 8
 
@@ -1402,6 +1494,7 @@
 | Lampblack | 10 | |
 | Shellac | 10 | |
 
+
 ## Green star 9
 
 ### Composition
@@ -1412,6 +1505,7 @@
 | Potassium chlorate | 48 | |
 | Shellac | 12 | |
 | Dextrin | 4 | |
+
 
 ## Green star 10
 
@@ -1425,6 +1519,7 @@
 | Barium nitrate | 50 | |
 | Charcoal | 10 | |
 
+
 ## Green star 11
 
 ### Composition
@@ -1436,6 +1531,7 @@
 | Aluminium | 27.6 | |
 | Dextrin | 6.9 | |
 | Shellac | 3.4 | |
+
 
 ## Green star 12
 
@@ -1451,6 +1547,7 @@
 | Dextrin | 6 | |
 | Sulfur | 5 | |
 
+
 ## Green star 13
 
 ### Composition
@@ -1465,6 +1562,7 @@
 | Dextrin | 3 | |
 | Aluminium | 5 | |
 
+
 ## Green star 14
 
 ### Composition
@@ -1476,6 +1574,7 @@
 | Aluminium | 10 | pyro|
 | Red gum | 5 | or sulfur|
 | Boric acid | 2 | |
+
 
 ## Green star brilliant
 
@@ -1489,6 +1588,7 @@
 | PVC | 15 | |
 | Lampblack | 2 | or Paulownia coal|
 
+
 ## Green tailed star
 
 ### Composition
@@ -1501,6 +1601,7 @@
 | Red gum | 6 | |
 | Dextrin | 5 | |
 
+
 ## Hall strobe 1
 
 ### Composition
@@ -1512,6 +1613,7 @@
 | Aluminium | 6 | fine flake |
 | Sulfur | 51 | |
 
+
 ## Hall strobe 2
 
 ### Composition
@@ -1521,6 +1623,7 @@
 | Barium nitrate | 27 | |
 | Magnesium | 18 | |
 | Sulfur | 55 | |
+
 
 ## HWW green
 
@@ -1536,6 +1639,7 @@
 | Parlon | 12 | |
 | Boric acid | 0.5 | |
 
+
 ## HWW yellow
 
 ### Composition
@@ -1549,6 +1653,7 @@
 | Strontium carbonate | 5 | |
 | Red gum | 5 | |
 
+
 ## Independence Red
 
 ### Composition
@@ -1561,6 +1666,7 @@
 | Red gum | 10 | |
 | Dextrin | 5 | |
 
+
 ## Jennings White blue 1
 
 ### Composition
@@ -1572,6 +1678,7 @@
 | Copper | 10 | I|
 | Dextrin | 5 | |
 
+
 ## Jennings White blue 2
 
 ### Composition
@@ -1582,6 +1689,7 @@
 | Copper | 20 | I|
 | Strontium carbonate | 5 | |
 | Shellaca | 10 | |
+
 
 ## Jennings White orange star
 
@@ -1597,6 +1705,7 @@
 | Calcium carbonate | 15 | |
 | Parlon | 10 | |
 
+
 ## Kinsei Green strobe
 
 ### Composition
@@ -1608,6 +1717,7 @@
 | Benzene hexachloride | 5 | |
 | Sulfur | 30 | |
 | Antimony trisulfide | 7 | |
+
 
 ## Kinsei Yellow strobe
 
@@ -1623,6 +1733,7 @@
 | Antimony trisulfide | 5 | |
 | Sodium oxalate | 5 | |
 
+
 ## Lampblack willow star
 
 ### Composition
@@ -1634,6 +1745,7 @@
 | Potassium nitrate | 4.55 | |
 | Dextrin | 4.55 | |
 
+
 ## Lancaster amber star
 
 ### Composition
@@ -1643,6 +1755,7 @@
 | Potassium chlorate | 60 | |
 | Sodium oxalate | 26 | |
 | Shellac | 14 | 60 mesh|
+
 
 ## Lancaster ammon blue
 
@@ -1656,6 +1769,7 @@
 | Red gum | 14 | |
 | Dextrin | 4 | |
 
+
 ## Lancaster chlorate blue 1
 
 ### Composition
@@ -1667,6 +1781,7 @@
 | Paris green | 22 | |
 | Dextrin | 4 | |
 
+
 ## Lancaster chlorate blue 2
 
 ### Composition
@@ -1676,6 +1791,7 @@
 | Potassium chlorate | 60 | |
 | Paris green | 20 | |
 | Shellac | 10 | 60 mesh|
+
 
 ## Lancaster chlorate Red
 
@@ -1689,6 +1805,7 @@
 | Charcoal | 1 | |
 | Dextrin | 4 | |
 
+
 ## Lancaster Glitter Gerb
 
 ### Composition
@@ -1700,6 +1817,7 @@
 | Sodium oxalate | 11 | |
 | Aluminium | 7 | |
 | Boric acid | 1 | |
+
 
 ## Lancaster Gold star 1
 
@@ -1713,6 +1831,7 @@
 | Charcoal | 20 | 150 mesh|
 | Dextrin | 7 | |
 
+
 ## Lancaster Gold star 2
 
 ### Composition
@@ -1723,6 +1842,7 @@
 | Antimony trisulfide | 8 | |
 | Lampblack | 23 | |
 | Red gum | 3 | |
+
 
 ## Lancaster Gold star 3
 
@@ -1737,6 +1857,7 @@
 | Dextrin | 6 | |
 | Shellac | 3 | 120 mesh|
 
+
 ## Lancaster green star 1
 
 ### Composition
@@ -1748,6 +1869,7 @@
 | Red gum | 10 | |
 | Charcoal | 5 | |
 | Dextrin | 4 | |
+
 
 ## Lancaster green star 2
 
@@ -1761,6 +1883,7 @@
 | Charcoal | 8 | |
 | Dextrin | 4 | |
 
+
 ## Lancaster green star 3
 
 ### Composition
@@ -1773,6 +1896,7 @@
 | Barium carbonate | 4 | |
 | Red gum | 17 | |
 | Dextrin | 3 | |
+
 
 ## Lancaster green star 4
 
@@ -1789,6 +1913,7 @@
 | Aluminium | 19 | bright|
 | Dextrin | 5 | |
 
+
 ## Lancaster metalic fire dust 1
 
 ### Composition
@@ -1799,6 +1924,7 @@
 | Aluminium | 19 | |
 | Aluminium | 19 | |
 | Dextrin | 6 | |
+
 
 ## Lancaster metalic fire dust 2
 
@@ -1813,6 +1939,7 @@
 | Meal powder | 5 | |
 | Dextrin | 5 | |
 
+
 ## Lancaster metalic fire dust 3
 
 ### Composition
@@ -1826,6 +1953,7 @@
 | Boric acid | 1 | |
 | Dextrin | 6 | |
 
+
 ## Lancaster metalic fire dust 4
 
 ### Composition
@@ -1837,6 +1965,7 @@
 | Aluminium | 14 | 30|
 | Shellac | 8 | |
 
+
 ## Lancaster metalic fire dust 5
 
 ### Composition
@@ -1847,6 +1976,7 @@
 | Aluminium | 24 | bright|
 | Aluminium | 4 | dark pyro|
 | Shellac | 8 | |
+
 
 ## Lancaster Red 2
 
@@ -1860,6 +1990,7 @@
 | Aluminium | 6 | bright|
 | Aluminium | 6 | flitter 80|
 
+
 ## Lancaster Red 3
 
 ### Composition
@@ -1871,6 +2002,7 @@
 | Magnesium | 30 | |
 | PVC | 12 | |
 | Laminac | 7 | polyester|
+
 
 ## Lancaster Red/Silver star
 
@@ -1885,6 +2017,7 @@
 | Aluminium | 10 | flitter 30|
 | Magnesium | 3 | |
 
+
 ## Lancaster white star 1
 
 ### Composition
@@ -1898,6 +2031,7 @@
 | Charcoal | 3 | |
 | Dextrin | 3 | |
 
+
 ## Lancaster white star 2
 
 ### Composition
@@ -1909,6 +2043,7 @@
 | Sulfur | 8 | |
 | Aluminium | 21 | dark pyro|
 | Barium fluoride | 6 | |
+
 
 ## Lancaster white star 3
 
@@ -1922,6 +2057,7 @@
 | Meal powder | 7 | |
 | Aluminium | 25 | dark pyro|
 
+
 ## Lancaster yellow star 1
 
 ### Composition
@@ -1933,6 +2069,7 @@
 | Red gum | 10 | |
 | Charcoal | 1 | |
 | Dextrin | 4 | |
+
 
 ## Lancaster yellow star 2
 
@@ -1946,6 +2083,7 @@
 | Dextrin | 4 | |
 | Shellac | 6 | 60 mesh|
 
+
 ## Lancaster yellow star 3
 
 ### Composition
@@ -1955,6 +2093,7 @@
 | Potassium perchlorate | 60 | |
 | Sodium oxalate | 26 | |
 | Shellac | 14 | 60 mesh|
+
 
 ## Lancaster yellow star 4
 
@@ -1969,6 +2108,7 @@
 | Boric acid | 1 | |
 | Sulfur | 5 | |
 
+
 ## Lancaster yellow star 5
 
 ### Composition
@@ -1978,6 +2118,7 @@
 | Sodium nitrate | 55.5 | |
 | Magnesium | 17 | |
 | PVC | 27.5 | |
+
 
 ## McLain Keystone red
 
@@ -1990,6 +2131,7 @@
 | Strontium carbonate | 8 | |
 | Charcoal | 6 | |
 | Dextrin | 5 | |
+
 
 ## Melilac
 
@@ -2004,6 +2146,7 @@
 | Magnalium | 10 | |
 | Red gum | 6 | |
 
+
 ## N1 (Glitter)
 
 ### Composition
@@ -2016,6 +2159,7 @@
 | Aluminium | 8 | " "|
 | Sodium bicarbonate | 12 | |
 | Dextrin | 4 | |
+
 
 ## Oglesby Improved snow ball
 
@@ -2031,6 +2175,7 @@
 | Aluminium | 10 | 12 micron|
 | Dextrin | 8 | |
 
+
 ## Orange star 1
 
 ### Composition
@@ -2043,6 +2188,7 @@
 | Shellac | 5 | |
 | Sulfur | 3 | |
 
+
 ## Orange star 2
 
 ### Composition
@@ -2052,6 +2198,7 @@
 | Potassium perchlorate | 70 | |
 | Cryolite | 10 | |
 | Shellac | 15 | |
+
 
 ## Orange/Red star
 
@@ -2063,6 +2210,7 @@
 | Potassium perchlorate | 40 | |
 | Sculpy | 23 | |
 | Iron oxide | 2 | Red|
+
 
 ## Perigrin orange star 1
 
@@ -2077,6 +2225,7 @@
 | PVC | 2 | |
 | Dextrin | 5 | |
 
+
 ## Perigrin orange star 2
 
 ### Composition
@@ -2089,6 +2238,7 @@
 | Charcoal | 2 | |
 | Dextrin | 5 | |
 | Sodium oxalate | 3 | |
+
 
 ## Perigrin orange star 3
 
@@ -2103,6 +2253,7 @@
 | Dextrin | 5 | |
 | Sodium oxalate | 5 | |
 
+
 ## Perigrin yellow star
 
 ### Composition
@@ -2115,6 +2266,7 @@
 | Sodium oxalate | 10 | |
 | Dextrin | 5 | |
 
+
 ## Pihko blue star 1
 
 ### Composition
@@ -2126,6 +2278,7 @@
 | Copper | 20 | II|
 | Red gum | 6 | |
 
+
 ## Pihko blue star 2
 
 ### Composition
@@ -2136,6 +2289,7 @@
 | Copper | 13 | II|
 | Red gum | 10 | or Shellac|
 | Parlon | 14 | or PVC|
+
 
 ## Pihko blue star 3
 
@@ -2149,6 +2303,7 @@
 | Red gum | 7 | |
 | Parlon | 12 | or PVC|
 
+
 ## Pihko blue star 4
 
 ### Composition
@@ -2161,6 +2316,7 @@
 | PVC | 12 | |
 | Dextrin | 10 | |
 
+
 ## Pihko KP Blue
 
 ### Composition
@@ -2172,6 +2328,7 @@
 | Copper | 13 | II|
 | Red gum | 10 | |
 
+
 ## Pihko yellow star 1
 
 ### Composition
@@ -2181,6 +2338,7 @@
 | Potassium chlorate | 60 | |
 | Sodium bicarbonate | 20 | |
 | Dextrin | 20 | |
+
 
 ## Purple star 1
 
@@ -2195,6 +2353,7 @@
 | Charcoal | 2 | |
 | Sulfur | 12 | |
 
+
 ## Purple star 2
 
 ### Composition
@@ -2207,6 +2366,7 @@
 | Lead chloride | 2 | |
 | Sulfur | 14 | |
 
+
 ## Red Pill Box star
 
 ### Composition
@@ -2218,6 +2378,7 @@
 | Red gum | 13 | |
 | Dextrin | 4 | |
 
+
 ## Red star 2
 
 ### Composition
@@ -2228,6 +2389,7 @@
 | Strontium nitrate | 60 | |
 | Shellac | 20 | |
 
+
 ## Red star 3
 
 ### Composition
@@ -2237,6 +2399,7 @@
 | Potassium chlorate | 65 | |
 | Strontium carbonate | 15 | |
 | Shellac | 20 | |
+
 
 ## Red star 4
 
@@ -2249,6 +2412,7 @@
 | Red gum | 15 | |
 | Shellac | 5 | |
 | PVC | 8 | or Saran|
+
 
 ## Red star 5
 
@@ -2264,6 +2428,7 @@
 | Red gum | 16 | |
 | Dextrin | 4 | |
 
+
 ## Red star 6
 
 ### Composition
@@ -2274,6 +2439,7 @@
 | Strontium nitrate | 42.8 | |
 | Sulfur | 9.5 | |
 | Lampblack | 4.9 | |
+
 
 ## Red star 7
 
@@ -2288,6 +2454,7 @@
 | Antimony trisulfide | 5 | |
 | Charcoal | 12 | |
 
+
 ## Red star 8
 
 ### Composition
@@ -2300,6 +2467,7 @@
 | Charcoal | 2 | 150 mesh|
 | Dextrin | 4 | |
 
+
 ## Red star 9
 
 ### Composition
@@ -2309,6 +2477,7 @@
 | Strontium nitrate | 55 | |
 | Magnesium | 28 | |
 | PVC | 17 | |
+
 
 ## Red star 10
 
@@ -2321,6 +2490,7 @@
 | Red gum | 14 | |
 | Dextrin | 5 | |
 
+
 ## Red star brilliant
 
 ### Composition
@@ -2332,6 +2502,7 @@
 | Magnesium | 30 | 60 mesh|
 | PVC | 18 | |
 | Lampblack | 2 | or Paulownia coal|
+
 
 ## Ruby red
 
@@ -2348,6 +2519,7 @@
 | Red gum | 2 | |
 | Dextrin | 5 | |
 
+
 ## Saline aqua star
 
 ### Composition
@@ -2362,6 +2534,7 @@
 | Red gum | 6.2 | |
 | Parlon | 15 | |
 
+
 ## Salmon color star
 
 ### Composition
@@ -2370,6 +2543,7 @@
 |-----------|--------|------|
 | Ammonium perchlorate | 75 | |
 | Super Sculpy | 25 | |
+
 
 ## Shimizu Blue smoke star
 
@@ -2381,6 +2555,7 @@
 | Milk sugar | 27 | |
 | Phthalocyanine blue | 40 | |
 | SGRS | 3 | |
+
 
 ## Shimizu Blue star I
 
@@ -2394,6 +2569,7 @@
 | Parlon | 13.1 | |
 | SGRS | 4.8 | |
 
+
 ## Shimizu Blue star II
 
 ### Composition
@@ -2406,6 +2582,7 @@
 | Parlon | 5.4 | |
 | SGRS | 4.8 | or Dexrin|
 
+
 ## Shimizu Falls
 
 ### Composition
@@ -2417,6 +2594,7 @@
 | Aluminium | 49 | |
 | Dextrin | 6 | |
 
+
 ## Shimizu Fire dust
 
 ### Composition
@@ -2426,6 +2604,7 @@
 | Potassium nitrate | 58 | |
 | Charcoal | 35 | |
 | Sulfur | 7 | |
+
 
 ## Shimizu Green ammon brilliant
 
@@ -2440,6 +2619,7 @@
 | Potassium dichromate | 1.9 | |
 | SGRS | 4.8 | |
 
+
 ## Shimizu Green smoke star
 
 ### Composition
@@ -2451,6 +2631,7 @@
 | Oil yellow | 20 | Butter yellow|
 | Phthalocyanine blue | 20 | |
 | SGRS | 3 | |
+
 
 ## Shimizu green star
 
@@ -2464,6 +2645,7 @@
 | Parlon | 5 | |
 | Dextrin | 5 | |
 
+
 ## Shimizu Green strobe
 
 ### Composition
@@ -2474,6 +2656,7 @@
 | Magnesium | 23 | atomized|
 | Barium sulfate | 17 | |
 | Potassium dichromate | 5 | |
+
 
 ## Shimizu Orange strobe
 
@@ -2486,6 +2669,7 @@
 | Calcium sulfate | 10 | |
 | Potassium dichromate | 5 | |
 
+
 ## Shimizu Red smoke star
 
 ### Composition
@@ -2497,6 +2681,7 @@
 | Rhodamine B | 30 | conc|
 | Oil orange | 22 | |
 | SGRS | 3 | |
+
 
 ## Shimizu Red star 1
 
@@ -2511,6 +2696,7 @@
 | Polyvinyl chloride | 2 | |
 | SGRS | 5 | |
 
+
 ## Shimizu Red strobe
 
 ### Composition
@@ -2522,6 +2708,7 @@
 | Strontium sulfate | 20 | |
 | Potassium dichromate | 5 | |
 
+
 ## Shimizu Silver wave No.2
 
 ### Composition
@@ -2531,6 +2718,7 @@
 | Potassium perchlorate | 35 | |
 | Aluminium | 65 | flake|
 | Dextrin | 5 | |
+
 
 ## Shimizu Violet smoke star
 
@@ -2545,6 +2733,7 @@
 | Phthalocyanine blue | 17 | |
 | SGRS | 3 | |
 
+
 ## Shimizu Violet star I
 
 ### Composition
@@ -2557,6 +2746,7 @@
 | Strontium carbonate | 7.4 | |
 | Parlon | 12.4 | |
 | SGRS | 4.8 | |
+
 
 ## Shimizu Violet star II
 
@@ -2571,6 +2761,7 @@
 | Parlon | 8.7 | |
 | SGRS | 4.8 | |
 
+
 ## Shimizu White strobe
 
 ### Composition
@@ -2581,6 +2772,7 @@
 | Magnalium | 25 | 100 mesh|
 | Barium sulfate | 15 | |
 | Potassium dichromate | 5 | |
+
 
 ## Shimizu White willow
 
@@ -2594,6 +2786,7 @@
 | Charcoal | 2 | |
 | SGRS | 6 | |
 
+
 ## Shimizu Willow star
 
 ### Composition
@@ -2605,6 +2798,7 @@
 | Charcoal | 45 | |
 | Dextrin | 8 | or SGRS|
 
+
 ## Shimizu Yellow dragon
 
 ### Composition
@@ -2614,6 +2808,7 @@
 | Potassium nitrate | 25 | |
 | Sulfur | 16 | |
 | Realgar | 59 | |
+
 
 ## Shimizu Yellow strobe
 
@@ -2626,6 +2821,7 @@
 | Sodium sulfate | 10 | |
 | Potassium dichromate | 5 | |
 
+
 ## Shimizu Yellow willow
 
 ### Composition
@@ -2637,6 +2833,7 @@
 | Realgar | 37 | |
 | Charcoal | 4 | Hemp or Paulownia|
 | SGRS | 6 | |
+
 
 ## Silver shower star 1
 
@@ -2654,6 +2851,7 @@
 | Dextrin | 5 | |
 | Boric acid | 2 | |
 
+
 ## Silver shower star 2
 
 ### Composition
@@ -2663,6 +2861,7 @@
 | Ammonium perchlorate | 65 | |
 | Aluminium | 22 | fine or flake|
 | Shellac | 18 | |
+
 
 ## Silver shower star 3
 
@@ -2676,6 +2875,7 @@
 | Dextrin | 5 | |
 | Boric acid | 2 | |
 
+
 ## Silver star core
 
 ### Composition
@@ -2688,6 +2888,7 @@
 | Lampblack | 2 | |
 | SGRS | 5 | |
 
+
 ## Silver wave
 
 ### Composition
@@ -2697,6 +2898,7 @@
 | Potassium perchlorate | 50 | |
 | Aluminium | 50 | coarse flake|
 | SGRS | 5 | |
+
 
 ## Silver wave chrysanthemum
 
@@ -2713,6 +2915,7 @@
 | Realgar | 7.5 | |
 | Dextrin | 6 | or SGRS|
 
+
 ## Soft willow lampblack star
 
 ### Composition
@@ -2726,6 +2929,7 @@
 | Lampblack | 30 | |
 | Dextrin | 5 | |
 
+
 ## Sparkler star
 
 ### Composition
@@ -2735,6 +2939,7 @@
 | Potassium perchlorate | 60 | |
 | Aluminium | 30 | course|
 | Dextrin | 10 | |
+
 
 ## Sunrise yellow
 
@@ -2748,6 +2953,7 @@
 | Charcoal | 5 | airfloat|
 | Dextrin | 5 | |
 
+
 ## Tiger tail
 
 ### Composition
@@ -2758,6 +2964,7 @@
 | Sulfur | 6 | |
 | Charcoal | 44 | |
 | Dextrin | 6 | or SGRS|
+
 
 ## Torquose
 
@@ -2774,6 +2981,7 @@
 | Charcoal | 5 | airfloat|
 | Dextrin | 5 | |
 
+
 ## Twinkling blue star
 
 ### Composition
@@ -2785,6 +2993,7 @@
 | Copper sulfate | 17 | |
 | Potassium dichromate | 5 | |
 
+
 ## Twinkling green star 1
 
 ### Composition
@@ -2794,6 +3003,7 @@
 | Ammonium perchlorate | 60 | |
 | Barium sulfate | 17 | |
 | Magnesium | 23 | lab grade powder|
+
 
 ## Twinkling green star 2
 
@@ -2805,6 +3015,7 @@
 | Barium sulfate | 17 | |
 | Magnesium | 23 | |
 | Potassium dichromate | 5 | |
+
 
 ## Twinkling green star 3
 
@@ -2821,6 +3032,7 @@
 | Antimony trisulfide | 7 | |
 | Potassium dichromate | 3 | |
 
+
 ## Twinkling orange star
 
 ### Composition
@@ -2832,6 +3044,7 @@
 | Calcium sulfate | 10 | |
 | Potassium dichromate | 5 | |
 
+
 ## Twinkling red star
 
 ### Composition
@@ -2842,6 +3055,7 @@
 | Ammonium perchlorate | 50 | |
 | Strontium sulfate | 20 | |
 | Potassium dichromate | 5 | |
+
 
 ## Twinkling white star 1
 
@@ -2855,6 +3069,7 @@
 | Potassium nitrate | 7 | |
 | Dextrin | 2 | |
 
+
 ## Twinkling white star 2
 
 ### Composition
@@ -2866,6 +3081,7 @@
 | Barium sulfate | 15 | |
 | Potassium dichromate | 5 | |
 
+
 ## Twinkling yellow star 1
 
 ### Composition
@@ -2876,6 +3092,7 @@
 | Ammonium perchlorate | 50 | |
 | Sodium sulfate | 10 | |
 | Potassium dichromate | 5 | |
+
 
 ## Twinkling yellow star 2
 
@@ -2890,6 +3107,7 @@
 | Sulfur | 27 | |
 | Antimony trisulfide | 5 | |
 | Sodium oxalate | 5 | |
+
 
 ## Velines aqua star
 
@@ -2906,6 +3124,7 @@
 | Magnalium | 9.61 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines blue star
 
 ### Composition
@@ -2918,6 +3137,7 @@
 | Red gum | 9 | |
 | Magnalium | 6 | 200 mesh|
 | Dextrin | 4 | |
+
 
 ## Velines chartreuse star
 
@@ -2934,6 +3154,7 @@
 | Magnalium | 9.61 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines green star
 
 ### Composition
@@ -2947,6 +3168,7 @@
 | Red gum | 5 | |
 | Magnalium | 11 | 200 mesh|
 | Dextrin | 4 | |
+
 
 ## Velines magenta star
 
@@ -2962,6 +3184,7 @@
 | Magnalium | 5.76 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines maroon star
 
 ### Composition
@@ -2976,6 +3199,7 @@
 | Magnalium | 5.77 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines orange star
 
 ### Composition
@@ -2988,6 +3212,7 @@
 | Red gum | 9 | |
 | Magnalium | 6 | 200 mesh|
 | Dextrin | 4 | |
+
 
 ## Velines peach star
 
@@ -3004,6 +3229,7 @@
 | Magnalium | 5.77 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines purple star
 
 ### Composition
@@ -3019,6 +3245,7 @@
 | Magnalium | 5.78 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines red star
 
 ### Composition
@@ -3031,6 +3258,7 @@
 | Red gum | 9 | |
 | Magnalium | 6 | 200|
 | Dextrin | 4 | |
+
 
 ## Velines turquoise star
 
@@ -3047,6 +3275,7 @@
 | Magnalium | 8.42 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Velines yellow star
 
 ### Composition
@@ -3062,6 +3291,7 @@
 | Magnalium | 8.42 | 200 mesh|
 | Dextrin | 3.85 | |
 
+
 ## Weingart white
 
 ### Composition
@@ -3070,6 +3300,7 @@
 |-----------|--------|------|
 | Potassium nitrate | 71 | |
 | Magnesium | 29 | 100|
+
 
 ## White comet 1
 
@@ -3082,6 +3313,7 @@
 | Sulfur | 9 | |
 | Dextrin | 6 | |
 
+
 ## White comet 2
 
 ### Composition
@@ -3092,6 +3324,7 @@
 | Charcoal | 30 | fine|
 | Sulfur | 10 | |
 | Dextrin | 11 | |
+
 
 ## White flare star
 
@@ -3107,6 +3340,7 @@
 | Aluminium | 0.68 | medium course|
 | Aluminium | 3.42 | fine|
 
+
 ## White flitter star
 
 ### Composition
@@ -3120,6 +3354,7 @@
 | Aluminium | 26 | fine flake|
 | Dextrin | 3 | |
 
+
 ## White star 1
 
 ### Composition
@@ -3129,6 +3364,7 @@
 | Potassium nitrate | 58 | |
 | Aluminium | 40 | |
 | Dextrin | 2 | |
+
 
 ## White star 2
 
@@ -3141,6 +3377,7 @@
 | Sulfur | 16 | |
 | Charcoal | 12 | |
 
+
 ## White star 3
 
 ### Composition
@@ -3149,6 +3386,7 @@
 |-----------|--------|------|
 | Potassium perchlorate | 67 | |
 | Aluminium | 33 | |
+
 
 ## White star 4
 
@@ -3161,6 +3399,7 @@
 | Magnesium | 28 | 100|
 | Parlon | 7 | |
 
+
 ## White star 5
 
 ### Composition
@@ -3170,6 +3409,7 @@
 | Strontium nitrate | 60 | or Barium nitrate|
 | Magnesium | 20 | |
 | PVC | 20 | |
+
 
 ## White star 6
 
@@ -3181,6 +3421,7 @@
 | Sulfur | 30 | |
 | Meal powder | 11 | |
 
+
 ## White star 7
 
 ### Composition
@@ -3190,6 +3431,7 @@
 | Potassium perchlorate | 61 | |
 | Aluminium | 31 | |
 | Lycopodium | 8 | |
+
 
 ## White star 8
 
@@ -3201,6 +3443,7 @@
 | Sulfur | 11.1 | |
 | Antimony trisulfide | 22.3 | |
 
+
 ## White star 10
 
 ### Composition
@@ -3211,6 +3454,7 @@
 | Antimony trisulfide | 13.8 | |
 | Sulfur | 18.4 | |
 | Dextrin | 3.4 | |
+
 
 ## White star 11
 
@@ -3226,6 +3470,7 @@
 | Titanium | 5 | 50 mesh|
 | Dextrin | 5 | |
 
+
 ## Williams White Glitter comet
 
 ### Composition
@@ -3240,6 +3485,7 @@
 | Aluminium | 10 | spherical|
 | Magnalium | 3 | 100|
 
+
 ## Willow tree star
 
 ### Composition
@@ -3250,6 +3496,7 @@
 | Potassium nitrate | 14.71 | |
 | Sulfur | 2.94 | |
 | Lampblack | 52.94 | |
+
 
 ## Winokur 1
 
@@ -3265,6 +3512,7 @@
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
 
+
 ## Winokur 2
 
 ### Composition
@@ -3278,6 +3526,7 @@
 | Sulfur | 10 | |
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
+
 
 ## Winokur 3
 
@@ -3293,6 +3542,7 @@
 | Strontium carbonate | 6 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 4
 
 ### Composition
@@ -3306,6 +3556,7 @@
 | Charcoal | 8 | airfloat|
 | Sodium oxalate | 6 | |
 | Dextrin | 4 | |
+
 
 ## Winokur 5
 
@@ -3322,6 +3573,7 @@
 | Sodium oxalate | 8 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 6
 
 ### Composition
@@ -3334,6 +3586,7 @@
 | Sulfur | 9 | |
 | Aluminium | 4.5 | bright |
 | Dextrin | 4.5 | |
+
 
 ## Winokur 7
 
@@ -3349,6 +3602,7 @@
 | Sodium oxalate | 8 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 8
 
 ### Composition
@@ -3362,6 +3616,7 @@
 | Charcoal | 10 | airfloat|
 | Iron oxide | 6 | Red|
 | Dextrin | 4 | |
+
 
 ## Winokur 9
 
@@ -3377,6 +3632,7 @@
 | Antimony trisulfide | 9 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 10
 
 ### Composition
@@ -3390,6 +3646,7 @@
 | Charcoal | 10 | Airfloat|
 | Dextrin | 4 | |
 
+
 ## Winokur 11
 
 ### Composition
@@ -3402,6 +3659,7 @@
 | Sulfur | 10 | |
 | Charcoal | 10 | Airfloat|
 | Dextrin | 5 | |
+
 
 ## Winokur 12
 
@@ -3417,6 +3675,7 @@
 | Dextrin | 5 | |
 | Iron oxide | 1 | Red|
 
+
 ## Winokur 13
 
 ### Composition
@@ -3430,6 +3689,7 @@
 | Aluminium | 6 | atom|
 | Dextrin | 4 | |
 | Magnalium | 3 | Granular |
+
 
 ## Winokur 14
 
@@ -3446,6 +3706,7 @@
 | Sodium bicarbonate | 5 | |
 | Magnalium | 4 | Granular |
 
+
 ## Winokur 15
 
 ### Composition
@@ -3459,6 +3720,7 @@
 | Sulfur | 9 | |
 | Sodium bicarbonate | 7 | |
 | Dextrin | 4 | |
+
 
 ## Winokur 16
 
@@ -3474,6 +3736,7 @@
 | Sodium bicarbonate | 7 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 17
 
 ### Composition
@@ -3486,6 +3749,7 @@
 | Magnalium | 12 | Granular |
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
+
 
 ## Winokur 18
 
@@ -3500,6 +3764,7 @@
 | Antimony trisulfide | 7 | |
 | Dextrin | 5 | |
 
+
 ## Winokur 19
 
 ### Composition
@@ -3512,6 +3777,7 @@
 | Magnalium | 10 | Granular |
 | Sodium bicarbonate | 6 | |
 | Dextrin | 4 | |
+
 
 ## Winokur 20
 
@@ -3527,6 +3793,7 @@
 | Iron oxide | 4 | Red|
 | Dextrin | 4 | |
 
+
 ## Winokur 21
 
 ### Composition
@@ -3540,6 +3807,7 @@
 | Antimony trisulfide | 6 | |
 | Sodium bicarbonate | 6 | |
 | Dextrin | 5 | |
+
 
 ## Winokur 22
 
@@ -3555,6 +3823,7 @@
 | Antimony trisulfide | 4 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 23
 
 ### Composition
@@ -3568,6 +3837,7 @@
 | Sodium bicarbonate | 8 | |
 | Dextrin | 4 | |
 
+
 ## Winokur 24
 
 ### Composition
@@ -3580,6 +3850,7 @@
 | Aluminium | 6 | Flake|
 | Sodium chloride | 6 | |
 | Dextrin | 5 | |
+
 
 ## Winokur 25
 
@@ -3595,6 +3866,7 @@
 | Iron oxide | 5 | Red|
 | Dextrin | 5 | |
 
+
 ## Winokur 26
 
 ### Composition
@@ -3607,6 +3879,7 @@
 | Aluminium | 6 | Flake|
 | Iron oxide | 6 | Red|
 | Dextrin | 6 | |
+
 
 ## Winokur 27
 
@@ -3621,6 +3894,7 @@
 | Aluminium | 9 | atom|
 | Sodium bicarbonate | 9 | |
 | Dextrin | 4 | |
+
 
 ## Winokur 28
 
@@ -3637,6 +3911,7 @@
 | Antimony trisulfide | 10 | |
 | Charcoal | 9 | airfloat|
 
+
 ## Winokur 29
 
 ### Composition
@@ -3651,6 +3926,7 @@
 | Sodium bicarbonate | 7 | |
 | Dextrin | 4 | |
 | Aluminium | 1 | Flake|
+
 
 ## Winokur 30
 
@@ -3667,6 +3943,7 @@
 | Aluminium | 4 | Flake|
 | Dextrin | 4 | |
 
+
 ## Winokur 31
 
 ### Composition
@@ -3682,6 +3959,7 @@
 | Iron oxide | 4 | Red|
 | Barium carbonate | 4 | |
 
+
 ## Winokur 32
 
 ### Composition
@@ -3695,6 +3973,7 @@
 | Charcoal | 10 | Airfloat|
 | Iron oxide | 8 | Red|
 | Dextrin | 5 | |
+
 
 ## Winokur 33
 
@@ -3710,6 +3989,7 @@
 | Iron oxide | 7 | Red|
 | Dextrin | 4 | |
 
+
 ## Winokur 34
 
 ### Composition
@@ -3722,6 +4002,7 @@
 | Charcoal | 10 | airfloat|
 | Sulfur | 10 | |
 | Dextrin | 5 | |
+
 
 ## Winokur 35
 
@@ -3737,6 +4018,7 @@
 | Iron oxide | 8 | Red|
 | Dextrin | 5 | |
 
+
 ## Winokur 36
 
 ### Composition
@@ -3750,6 +4032,7 @@
 | Sulfur | 10 | |
 | Iron oxide | 10 | Red|
 | Dextrin | 4 | |
+
 
 ## Winokur 37
 
@@ -3766,6 +4049,7 @@
 | Dextrin | 4 | |
 | Barium carbonate | 2 | |
 
+
 ## Winokur 38
 
 ### Composition
@@ -3779,6 +4063,7 @@
 | Aluminium | 12 | atom|
 | Iron oxide | 7 | Red|
 | Dextrin | 4 | |
+
 
 ## Winokur 39
 
@@ -3795,6 +4080,7 @@
 | Iron oxide | 4 | Red|
 | Barium carbonate | 4 | |
 
+
 ## Winokur 40
 
 ### Composition
@@ -3809,6 +4095,7 @@
 | Dextrin | 4 | |
 | Magnalium | 2.5 | granular|
 
+
 ## Winokur Amber star
 
 ### Composition
@@ -3819,6 +4106,7 @@
 | Sodium oxalate | 18 | |
 | Calcium sulfate | 29 | |
 | Magnesium | 41 | 100 mesh|
+
 
 ## Yellow Glitter
 
@@ -3835,6 +4123,7 @@
 | Dextrin | 4 | |
 | Boric acid | 1 | |
 
+
 ## Yellow star 1
 
 ### Composition
@@ -3844,6 +4133,7 @@
 | Potassium chlorate | 60 | |
 | Sodium carbonate | 20 | hydrogen|
 | Dextrin | 20 | |
+
 
 ## Yellow star 2
 
@@ -3855,6 +4145,7 @@
 | Sodium oxalate | 23.1 | |
 | Lampblack | 15.3 | |
 
+
 ## Yellow star 3
 
 ### Composition
@@ -3865,6 +4156,7 @@
 | Sodium oxalate | 26.7 | |
 | Shellac | 13.3 | |
 | Dextrin | 6.7 | |
+
 
 ## Yellow star 4
 
@@ -3878,6 +4170,7 @@
 | Charcoal | 10 | |
 | Rosin | 2 | |
 
+
 ## Yellow star 5
 
 ### Composition
@@ -3890,6 +4183,7 @@
 | Sodium nitrate | 7 | |
 | SGRS | 5 | |
 
+
 ## Yellow star 8
 
 ### Composition
@@ -3900,6 +4194,7 @@
 | Cryolite | 10 | |
 | PVC | 10 | |
 | Shellac | 10 | |
+
 
 ## Yellow star brilliant
 
@@ -3913,6 +4208,7 @@
 | PVC | 10 | |
 | Lampblack | 2 | or Paulownia|
 
+
 ## Zinc spreader star 1
 
 ### Composition
@@ -3925,6 +4221,7 @@
 | Charcoal | 12 | granular|
 | Dextrin | 2 | |
 
+
 ## Zinc spreader star 2
 
 ### Composition
@@ -3935,6 +4232,7 @@
 | Zinc | 61.54 | dust|
 | Charcoal | 10.77 | |
 | Sulfur | 6.15 | |
+
 
 ## Zinc spreader star 3
 
