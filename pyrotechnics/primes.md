@@ -1,4 +1,24 @@
-# Stars
+# Primes
+
+## Index
+
+- [Brilliant core coating composition](#brilliant-core-coating-composition)
+- [Changing Relay #1](#changing-relay-#1)
+- [Changing Relay #2](#changing-relay-#2)
+- [Microstar prime](#microstar-prime)
+- [Monocapa Prime](#monocapa-prime)
+- [Perigrin BP outer prime](#perigrin-bp-outer-prime)
+- [Perigrin Magnalium inner prime](#perigrin-magnalium-inner-prime)
+- [Perigrin Perchlorate prime](#perigrin-perchlorate-prime)
+- [Priming composition #1](#priming-composition-#1)
+- [Priming composition #2](#priming-composition-#2)
+- [Priming composition #3](#priming-composition-#3)
+- [Priming composition #4](#priming-composition-#4)
+- [Priming composition #6](#priming-composition-#6)
+- [Priming composition #7](#priming-composition-#7)
+- [Priming composition #8](#priming-composition-#8)
+- [Veline's priming](#velines-priming)
+
 
 ## Brilliant core coating composition
 

@@ -1,6 +1,307 @@
 # Stars
 
-## Amber star #1
+## Index
+
+- [Amber star #1](#amber-star-1)
+- [Ammon green star brilliant](#ammon-green-star-brilliant)
+- [Ammon red star brilliant](#ammon-red-star-brilliant)
+- [Ammon yellow star brilliant](#ammon-yellow-star-brilliant)
+- [Baechle amber #1](#baechle-amber-1)
+- [Baechle amber #2](#baechle-amber-2)
+- [Baechle amber #3](#baechle-amber-3)
+- [Baechle aqua star #1](#baechle-aqua-star-1)
+- [Baechle aqua star #2](#baechle-aqua-star-2)
+- [Baechle aqua star #3](#baechle-aqua-star-3)
+- [Better Pearl (Glitter)](#better-pearl-(glitter))
+- [Blankley metalic star dust](#blankley-metalic-star-dust)
+- [Bleser aqua star](#bleser-aqua-star)
+- [Bleser Blond Streamer comet](#bleser-blond-streamer-comet)
+- [Bleser Blond Streamer comet #2](#bleser-blond-streamer-comet-2)
+- [Bleser blue #1](#bleser-blue-1)
+- [Bleser blue #2](#bleser-blue-2)
+- [Bleser Golden Flitter #13](#bleser-golden-flitter-13)
+- [Bleser green magnesium](#bleser-green-magnesium)
+- [Bleser Green strobe](#bleser-green-strobe)
+- [Bleser purple star #1](#bleser-purple-star-1)
+- [Bleser red magnesium](#bleser-red-magnesium)
+- [Bleser Red organic star](#bleser-red-organic-star)
+- [Bleser Silver Flitter #14](#bleser-silver-flitter-14)
+- [Bleser White strobe](#bleser-white-strobe)
+- [Bleser yellow magnesium](#bleser-yellow-magnesium)
+- [Blue Lancaster Pumped #1](#blue-lancaster-pumped-1)
+- [Blue star #1](#blue-star-1)
+- [Blue star #2](#blue-star-2)
+- [Blue star #5](#blue-star-5)
+- [Blue star #6](#blue-star-6)
+- [Blue star #7](#blue-star-7)
+- [Blue star #11](#blue-star-11)
+- [Blue star #12](#blue-star-12)
+- [Blue star #13](#blue-star-13)
+- [Blue star #14](#blue-star-14)
+- [Blue star #15](#blue-star-15)
+- [Blue star #16](#blue-star-16)
+- [Blue star with charcoal tail](#blue-star-with-charcoal-tail)
+- [Brilliant core](#brilliant-core)
+- [Brilliant white star](#brilliant-white-star)
+- [Changing Relay #1](#changing-relay-1)
+- [Changing Relay #2](#changing-relay-2)
+- [Chrysanthemum 6](#chrysanthemum-6)
+- [Chrysanthemum 8](#chrysanthemum-8)
+- [Chrysanthemum of mystery](#chrysanthemum-of-mystery)
+- [Clark white star](#clark-white-star)
+- [Conkling blue #1](#conkling-blue-1)
+- [Conkling blue #2](#conkling-blue-2)
+- [Crackling microstars #1](#crackling-microstars-1)
+- [Crackling microstars #2](#crackling-microstars-2)
+- [Davis amber star](#davis-amber-star)
+- [Davis blue #1](#davis-blue-1)
+- [Davis blue #2](#davis-blue-2)
+- [Davis Snowball star](#davis-snowball-star)
+- [Davis white star #1](#davis-white-star-1)
+- [Davis white star #2](#davis-white-star-2)
+- [Davis white star #3](#davis-white-star-3)
+- [Davis white star #4](#davis-white-star-4)
+- [Dragon eggs (Crackling star)](#dragon-eggs-(crackling-star))
+- [Electric purple star](#electric-purple-star)
+- [Electric star #1](#electric-star-1)
+- [Electric star #2](#electric-star-2)
+- [Electric star #3](#electric-star-3)
+- [Electric star #4](#electric-star-4)
+- [Electric violet stars](#electric-violet-stars)
+- [Emerald Green](#emerald-green)
+- [Firefly #1](#firefly-1)
+- [Firefly #2](#firefly-2)
+- [Firefly #3](#firefly-3)
+- [Forli aqua 3 modified](#forli-aqua-3-modified)
+- [Freeman aqua star #1](#freeman-aqua-star-1)
+- [Freeman aqua star #2](#freeman-aqua-star-2)
+- [Freeman aqua star #3](#freeman-aqua-star-3)
+- [Glitter star](#glitter-star)
+- [Gold flitter star](#gold-flitter-star)
+- [Golden chrysanthemum](#golden-chrysanthemum)
+- [Golden rain #1](#golden-rain-1)
+- [Golden rain #2](#golden-rain-2)
+- [Golden twinkler star](#golden-twinkler-star)
+- [Golden wave #1](#golden-wave-1)
+- [Golden wave #2](#golden-wave-2)
+- [Golden wave #3](#golden-wave-3)
+- [Granite Star](#granite-star)
+- [Green star #1](#green-star-1)
+- [Green star #2](#green-star-2)
+- [Green star #3](#green-star-3)
+- [Green star #4](#green-star-4)
+- [Green star #5](#green-star-5)
+- [Green star #6](#green-star-6)
+- [Green star #7](#green-star-7)
+- [Green star #8](#green-star-8)
+- [Green star #9](#green-star-9)
+- [Green star #10](#green-star-10)
+- [Green star #11](#green-star-11)
+- [Green star #12](#green-star-12)
+- [Green star #13](#green-star-13)
+- [Green star #14](#green-star-14)
+- [Green star brilliant](#green-star-brilliant)
+- [Green tailed star](#green-tailed-star)
+- [Hall strobe #1](#hall-strobe-1)
+- [Hall strobe #2](#hall-strobe-2)
+- [HWW green](#hww-green)
+- [HWW yellow](#hww-yellow)
+- [Independence Red](#independence-red)
+- [Jennings White blue #1](#jennings-white-blue-1)
+- [Jennings White blue #2](#jennings-white-blue-2)
+- [Jennings White orange star](#jennings-white-orange-star)
+- [Kinsei Green strobe](#kinsei-green-strobe)
+- [Kinsei Yellow strobe](#kinsei-yellow-strobe)
+- [Lampblack willow star](#lampblack-willow-star)
+- [Lancaster amber star](#lancaster-amber-star)
+- [Lancaster ammon blue](#lancaster-ammon-blue)
+- [Lancaster chlorate blue #1](#lancaster-chlorate-blue-1)
+- [Lancaster chlorate blue #2](#lancaster-chlorate-blue-2)
+- [Lancaster chlorate Red](#lancaster-chlorate-red)
+- [Lancaster Glitter Gerb](#lancaster-glitter-gerb)
+- [Lancaster Gold star #1](#lancaster-gold-star-1)
+- [Lancaster Gold star #2](#lancaster-gold-star-2)
+- [Lancaster Gold star #3](#lancaster-gold-star-3)
+- [Lancaster green star #1](#lancaster-green-star-1)
+- [Lancaster green star #2](#lancaster-green-star-2)
+- [Lancaster green star #3](#lancaster-green-star-3)
+- [Lancaster green star #4](#lancaster-green-star-4)
+- [Lancaster metalic fire dust #1](#lancaster-metalic-fire-dust-1)
+- [Lancaster metalic fire dust #2](#lancaster-metalic-fire-dust-2)
+- [Lancaster metalic fire dust #3](#lancaster-metalic-fire-dust-3)
+- [Lancaster metalic fire dust #4](#lancaster-metalic-fire-dust-4)
+- [Lancaster metalic fire dust #5](#lancaster-metalic-fire-dust-5)
+- [Lancaster Red #2](#lancaster-red-2)
+- [Lancaster Red #3](#lancaster-red-3)
+- [Lancaster Red/Silver star](#lancaster-red/silver-star)
+- [Lancaster white star #1](#lancaster-white-star-1)
+- [Lancaster white star #2](#lancaster-white-star-2)
+- [Lancaster white star #3](#lancaster-white-star-3)
+- [Lancaster yellow star #1](#lancaster-yellow-star-1)
+- [Lancaster yellow star #2](#lancaster-yellow-star-2)
+- [Lancaster yellow star #3](#lancaster-yellow-star-3)
+- [Lancaster yellow star #4](#lancaster-yellow-star-4)
+- [Lancaster yellow star #5](#lancaster-yellow-star-5)
+- [McLain Keystone red](#mclain-keystone-red)
+- [Melilac](#melilac)
+- [N1 (Glitter)](#n1-(glitter))
+- [Oglesby Improved snow ball](#oglesby-improved-snow-ball)
+- [Orange star #1](#orange-star-1)
+- [Orange star #2](#orange-star-2)
+- [Orange/Red star](#orange/red-star)
+- [Perigrin orange star #1](#perigrin-orange-star-1)
+- [Perigrin orange star #2](#perigrin-orange-star-2)
+- [Perigrin orange star #3](#perigrin-orange-star-3)
+- [Perigrin yellow star](#perigrin-yellow-star)
+- [Pihko blue star #1](#pihko-blue-star-1)
+- [Pihko blue star #2](#pihko-blue-star-2)
+- [Pihko blue star #3](#pihko-blue-star-3)
+- [Pihko blue star #4](#pihko-blue-star-4)
+- [Pihko KP Blue](#pihko-kp-blue)
+- [Pihko yellow star #1](#pihko-yellow-star-1)
+- [Purple star #1](#purple-star-1)
+- [Purple star #2](#purple-star-2)
+- [Red Pill Box star](#red-pill-box-star)
+- [Red star #2](#red-star-2)
+- [Red star #3](#red-star-3)
+- [Red star #4](#red-star-4)
+- [Red star #5](#red-star-5)
+- [Red star #6](#red-star-6)
+- [Red star #7](#red-star-7)
+- [Red star #8](#red-star-8)
+- [Red star #9](#red-star-9)
+- [Red star #10](#red-star-10)
+- [Red star brilliant](#red-star-brilliant)
+- [Ruby red](#ruby-red)
+- [Saline aqua star](#saline-aqua-star)
+- [Salmon color star](#salmon-color-star)
+- [Shimizu Blue smoke star](#shimizu-blue-smoke-star)
+- [Shimizu Blue star I](#shimizu-blue-star-i)
+- [Shimizu Blue star II](#shimizu-blue-star-ii)
+- [Shimizu Falls](#shimizu-falls)
+- [Shimizu Fire dust](#shimizu-fire-dust)
+- [Shimizu Green ammon brilliant](#shimizu-green-ammon-brilliant)
+- [Shimizu Green smoke star](#shimizu-green-smoke-star)
+- [Shimizu green star](#shimizu-green-star)
+- [Shimizu Green strobe](#shimizu-green-strobe)
+- [Shimizu Orange strobe](#shimizu-orange-strobe)
+- [Shimizu Red smoke star](#shimizu-red-smoke-star)
+- [Shimizu Red star #1](#shimizu-red-star-1)
+- [Shimizu Red strobe](#shimizu-red-strobe)
+- [Shimizu Silver wave No.2](#shimizu-silver-wave-no.2)
+- [Shimizu Violet smoke star](#shimizu-violet-smoke-star)
+- [Shimizu Violet star I](#shimizu-violet-star-i)
+- [Shimizu Violet star II](#shimizu-violet-star-ii)
+- [Shimizu White strobe](#shimizu-white-strobe)
+- [Shimizu White willow](#shimizu-white-willow)
+- [Shimizu Willow star](#shimizu-willow-star)
+- [Shimizu Yellow dragon](#shimizu-yellow-dragon)
+- [Shimizu Yellow strobe](#shimizu-yellow-strobe)
+- [Shimizu Yellow willow](#shimizu-yellow-willow)
+- [Silver shower star #1](#silver-shower-star-1)
+- [Silver shower star #2](#silver-shower-star-2)
+- [Silver shower star #3](#silver-shower-star-3)
+- [Silver star core](#silver-star-core)
+- [Silver wave](#silver-wave)
+- [Silver wave chrysanthemum](#silver-wave-chrysanthemum)
+- [Soft willow lampblack star](#soft-willow-lampblack-star)
+- [Sparkler star](#sparkler-star)
+- [Sunrise yellow](#sunrise-yellow)
+- [Tiger tail](#tiger-tail)
+- [Torquose](#torquose)
+- [Twinkling blue star](#twinkling-blue-star)
+- [Twinkling green star #1](#twinkling-green-star-1)
+- [Twinkling green star #2](#twinkling-green-star-2)
+- [Twinkling green star #3](#twinkling-green-star-3)
+- [Twinkling orange star](#twinkling-orange-star)
+- [Twinkling red star](#twinkling-red-star)
+- [Twinkling white star #1](#twinkling-white-star-1)
+- [Twinkling white star #2](#twinkling-white-star-2)
+- [Twinkling yellow star #1](#twinkling-yellow-star-1)
+- [Twinkling yellow star #2](#twinkling-yellow-star-2)
+- [Velines aqua star](#velines-aqua-star)
+- [Velines blue star](#velines-blue-star)
+- [Velines chartreuse star](#velines-chartreuse-star)
+- [Velines green star](#velines-green-star)
+- [Velines magenta star](#velines-magenta-star)
+- [Velines maroon star](#velines-maroon-star)
+- [Velines orange star](#velines-orange-star)
+- [Velines peach star](#velines-peach-star)
+- [Velines purple star](#velines-purple-star)
+- [Velines red star](#velines-red-star)
+- [Velines turquoise star](#velines-turquoise-star)
+- [Velines yellow star](#velines-yellow-star)
+- [Weingart white](#weingart-white)
+- [White comet #1](#white-comet-1)
+- [White comet #2](#white-comet-2)
+- [White flare star](#white-flare-star)
+- [White flitter star](#white-flitter-star)
+- [White star #1](#white-star-1)
+- [White star #2](#white-star-2)
+- [White star #3](#white-star-3)
+- [White star #4](#white-star-4)
+- [White star #5](#white-star-5)
+- [White star #6](#white-star-6)
+- [White star #7](#white-star-7)
+- [White star #8](#white-star-8)
+- [White star #10](#white-star-10)
+- [White star #11](#white-star-11)
+- [Williams White Glitter comet](#williams-white-glitter-comet)
+- [Willow tree star](#willow-tree-star)
+- [Winokur #1](#winokur-1)
+- [Winokur #2](#winokur-2)
+- [Winokur #3](#winokur-3)
+- [Winokur #4](#winokur-4)
+- [Winokur #5](#winokur-5)
+- [Winokur #6](#winokur-6)
+- [Winokur #7](#winokur-7)
+- [Winokur #8](#winokur-8)
+- [Winokur #9](#winokur-9)
+- [Winokur #10](#winokur-10)
+- [Winokur #11](#winokur-11)
+- [Winokur #12](#winokur-12)
+- [Winokur #13](#winokur-13)
+- [Winokur #14](#winokur-14)
+- [Winokur #15](#winokur-15)
+- [Winokur #16](#winokur-16)
+- [Winokur #17](#winokur-17)
+- [Winokur #18](#winokur-18)
+- [Winokur #19](#winokur-19)
+- [Winokur #20](#winokur-20)
+- [Winokur #21](#winokur-21)
+- [Winokur #22](#winokur-22)
+- [Winokur #23](#winokur-23)
+- [Winokur #24](#winokur-24)
+- [Winokur #25](#winokur-25)
+- [Winokur #26](#winokur-26)
+- [Winokur #27](#winokur-27)
+- [Winokur #28](#winokur-28)
+- [Winokur #29](#winokur-29)
+- [Winokur #30](#winokur-30)
+- [Winokur #31](#winokur-31)
+- [Winokur #32](#winokur-32)
+- [Winokur #33](#winokur-33)
+- [Winokur #34](#winokur-34)
+- [Winokur #35](#winokur-35)
+- [Winokur #36](#winokur-36)
+- [Winokur #37](#winokur-37)
+- [Winokur #38](#winokur-38)
+- [Winokur #39](#winokur-39)
+- [Winokur #40](#winokur-40)
+- [Winokur Amber star](#winokur-amber-star)
+- [Yellow Glitter](#yellow-glitter)
+- [Yellow star #1](#yellow-star-1)
+- [Yellow star #2](#yellow-star-2)
+- [Yellow star #3](#yellow-star-3)
+- [Yellow star #4](#yellow-star-4)
+- [Yellow star #5](#yellow-star-5)
+- [Yellow star #8](#yellow-star-8)
+- [Yellow star brilliant](#yellow-star-brilliant)
+- [Zinc spreader star #1](#zinc-spreader-star-1)
+- [Zinc spreader star #2](#zinc-spreader-star-2)
+- [Zinc spreader star #3](#zinc-spreader-star-3)
+
+## Amber star 1
 
 ### Composition
 
@@ -51,7 +352,7 @@
 | Potassium dichromate | 1.9 | |
 | SGRS | 4.8 | |
 
-## Baechle amber #1
+## Baechle amber 1
 
 ### Composition
 
@@ -64,7 +365,7 @@
 | Red gum | 12 | |
 | Dextrin | 4 | |
 
-## Baechle amber #2
+## Baechle amber 2
 
 ### Composition
 
@@ -79,7 +380,7 @@
 | Parlon | 18 | |
 | Red gum | 4 | |
 
-## Baechle amber #3
+## Baechle amber 3
 
 ### Composition
 
@@ -90,7 +391,7 @@
 | Magnesium | 17 | 100 mesh|
 | Rosin | 16 | |
 
-## Baechle aqua star #1
+## Baechle aqua star 1
 
 ### Composition
 
@@ -104,7 +405,7 @@
 | Potassium benzoate | 5 | |
 | Dextrin | 4 | |
 
-## Baechle aqua star #2
+## Baechle aqua star 2
 
 ### Composition
 
@@ -116,7 +417,7 @@
 | Chlorowax | 2 | |
 | Dextrin | 2 | |
 
-## Baechle aqua star #3
+## Baechle aqua star 3
 
 ### Composition
 
@@ -181,7 +482,7 @@
 | Dextrin | 5 | |
 | Ferrotitanium | 15 | 100 mesh|
 
-## Bleser Blond Streamer comet #2
+## Bleser Blond Streamer comet 2
 
 ### Composition
 
@@ -192,7 +493,7 @@
 | Dextrin | 5 | |
 | Ferrotitanium | 15 | 100 mesh|
 
-## Bleser blue #1
+## Bleser blue 1
 
 ### Composition
 
@@ -206,7 +507,7 @@
 | Red gum | 10 | |
 | Dextrin | 4 | |
 
-## Bleser blue #2
+## Bleser blue 2
 
 ### Composition
 
@@ -217,7 +518,7 @@
 | Hexamine | 17 | |
 | Dextrin | 4 | |
 
-## Bleser Golden Flitter #13
+## Bleser Golden Flitter 13
 
 ### Composition
 
@@ -252,7 +553,7 @@
 | Hexachlorobenzene | 13 | |
 | Dextrin | 5 | |
 
-## Bleser purple star #1
+## Bleser purple star 1
 
 ### Composition
 
@@ -288,7 +589,7 @@
 | Hexachlorobenzene | 2 | |
 | Dextrin | 4 | |
 
-## Bleser Silver Flitter #14
+## Bleser Silver Flitter 14
 
 ### Composition
 
@@ -322,7 +623,7 @@
 | Cryolite | 13 | |
 | Charcoal | 2 | |
 
-## Blue Lancaster Pumped #1
+## Blue Lancaster Pumped 1
 
 ### Composition
 
@@ -333,7 +634,7 @@
 | Paris green | 22 | |
 | Dextrin | 4 | |
 
-## Blue star #1
+## Blue star 1
 
 ### Composition
 
@@ -345,7 +646,7 @@
 | Red gum | 9 | |
 | Dextrin | 5 | |
 
-## Blue star #2
+## Blue star 2
 
 ### Composition
 
@@ -357,7 +658,7 @@
 | Dextrin | 3 | |
 | Red gum | 6 | or Shellac|
 
-## Blue star #5
+## Blue star 5
 
 ### Composition
 
@@ -369,7 +670,7 @@
 | Dextrin | 10 | |
 | PVC | 12 | |
 
-## Blue star #6
+## Blue star 6
 
 ### Composition
 
@@ -380,7 +681,7 @@
 | Mercurous chloride | 7.1 | |
 | Sulfur | 14.3 | |
 
-## Blue star #7
+## Blue star 7
 
 ### Composition
 
@@ -391,7 +692,7 @@
 | Lead chloride | 4.35 | |
 | Sulfur | 17.4 | |
 
-## Blue star #11
+## Blue star 11
 
 ### Composition
 
@@ -403,7 +704,7 @@
 | Parlon | 9.1 | |
 | SGRS | 4.5 | |
 
-## Blue star #12
+## Blue star 12
 
 ### Composition
 
@@ -413,7 +714,7 @@
 | Copper | 15 | II|
 | Shellac | 15 | |
 
-## Blue star #13
+## Blue star 13
 
 ### Composition
 
@@ -424,7 +725,7 @@
 | Copper | 10 | II|
 | PVC | 15 | |
 
-## Blue star #14
+## Blue star 14
 
 ### Composition
 
@@ -436,7 +737,7 @@
 | Dextrin | 5 | |
 | Saran | 5 | |
 
-## Blue star #15
+## Blue star 15
 
 ### Composition
 
@@ -446,7 +747,7 @@
 | Fimo | 20 | |
 | Malachite | 10 | powdered|
 
-## Blue star #16
+## Blue star 16
 
 ### Composition
 
@@ -490,7 +791,7 @@
 | Aluminium | 44.4 | dust|
 | Dextrin | 11.2 | |
 
-## Changing Relay #1
+## Changing Relay 1
 
 ### Composition
 
@@ -501,7 +802,7 @@
 | Charcoal | 24 | Paulownia or Hemp|
 | SGRS | 6 | |
 
-## Changing Relay #2
+## Changing Relay 2
 
 ### Composition
 
@@ -554,7 +855,7 @@
 | Aluminium | 37 | dark pyro|
 | Dextrin | 5 | |
 
-## Conkling blue #1
+## Conkling blue 1
 
 ### Composition
 
@@ -566,7 +867,7 @@
 | Red gum | 7 | |
 | Dextrin | 5 | |
 
-## Conkling blue #2
+## Conkling blue 2
 
 ### Composition
 
@@ -578,7 +879,7 @@
 | Red gum | 6 | |
 | Dextrin | 5 | |
 
-## Crackling microstars #1
+## Crackling microstars 1
 
 ### Composition
 
@@ -589,7 +890,7 @@
 | Copper | 10 | II|
 | Aluminium | 5 | 200 mesh atomized|
 
-## Crackling microstars #2
+## Crackling microstars 2
 
 ### Composition
 
@@ -610,7 +911,7 @@
 | Sodium oxalate | 25 | |
 | Shellac | 12 | 60 mesh|
 
-## Davis blue #1
+## Davis blue 1
 
 ### Composition
 
@@ -622,7 +923,7 @@
 | Ammonium chloride | 6 | |
 | Stearin | 6 | |
 
-## Davis blue #2
+## Davis blue 2
 
 ### Composition
 
@@ -648,7 +949,7 @@
 | Aluminium | 6 | 12 micron|
 | Dextrin | 5 | |
 
-## Davis white star #1
+## Davis white star 1
 
 ### Composition
 
@@ -659,7 +960,7 @@
 | Sulfur | 17 | |
 | Dextrin | 4 | |
 
-## Davis white star #2
+## Davis white star 2
 
 ### Composition
 
@@ -670,7 +971,7 @@
 | Sulfur | 19 | |
 | Dextrin | 2 | |
 
-## Davis white star #3
+## Davis white star 3
 
 ### Composition
 
@@ -683,7 +984,7 @@
 | Charcoal | 1 | |
 | Dextrin | 2 | |
 
-## Davis white star #4
+## Davis white star 4
 
 ### Composition
 
@@ -719,7 +1020,7 @@
 | Hexamine | 7 | |
 | Dextrin | 5 | |
 
-## Electric star #1
+## Electric star 1
 
 ### Composition
 
@@ -732,7 +1033,7 @@
 | Antimony trisulfide | 11.11 | |
 | Sulfur | 14.81 | |
 
-## Electric star #2
+## Electric star 2
 
 ### Composition
 
@@ -746,7 +1047,7 @@
 | Charcoal | 2 | |
 | Dextrin | 5 | |
 
-## Electric star #3
+## Electric star 3
 
 ### Composition
 
@@ -757,7 +1058,7 @@
 | Aluminium | 71.43 | |
 | Dextrin | 3.57 | |
 
-## Electric star #4
+## Electric star 4
 
 ### Composition
 
@@ -793,7 +1094,7 @@
 | Red gum | 22 | |
 | Dextrin | 4 | |
 
-## Firefly #1
+## Firefly 1
 
 ### Composition
 
@@ -806,7 +1107,7 @@
 | Aluminium | 4.5 | |
 | Dextrin | 5 | |
 
-## Firefly #2
+## Firefly 2
 
 ### Composition
 
@@ -819,7 +1120,7 @@
 | Sulfur | 4.7 | |
 | Dextrin | 5.3 | |
 
-## Firefly #3
+## Firefly 3
 
 ### Composition
 
@@ -845,7 +1146,7 @@
 | Magnalium | 16 | |
 | Red gum | 4 | or Dextrin|
 
-## Freeman aqua star #1
+## Freeman aqua star 1
 
 ### Composition
 
@@ -860,7 +1161,7 @@
 | Parlon | 20 | |
 | Dextrin | 4 | |
 
-## Freeman aqua star #2
+## Freeman aqua star 2
 
 ### Composition
 
@@ -875,7 +1176,7 @@
 | Hexachlorobenzene | 5 | |
 | Dextrin | 5 | |
 
-## Freeman aqua star #3
+## Freeman aqua star 3
 
 ### Composition
 
@@ -929,7 +1230,7 @@
 | Boric acid | 1 | |
 | SGRS | 7 | |
 
-## Golden rain #1
+## Golden rain 1
 
 ### Composition
 
@@ -939,7 +1240,7 @@
 | Sulfur | 32 | |
 | Lampblack | 20 | |
 
-## Golden rain #2
+## Golden rain 2
 
 ### Composition
 
@@ -963,7 +1264,7 @@
 | Antimony trisulfide | 9 | |
 | Sodium oxalate | 11 | |
 
-## Golden wave #1
+## Golden wave 1
 
 ### Composition
 
@@ -975,7 +1276,7 @@
 | Boric acid | 1 | |
 | SGRS | 6 | |
 
-## Golden wave #2
+## Golden wave 2
 
 ### Composition
 
@@ -987,7 +1288,7 @@
 | Boric acid | 1 | |
 | SGRS | 6 | |
 
-## Golden wave #3
+## Golden wave 3
 
 ### Composition
 
@@ -1011,7 +1312,7 @@
 | Sulfur | 4 | |
 | Dextrin | 2 | |
 
-## Green star #1
+## Green star 1
 
 ### Composition
 
@@ -1023,7 +1324,7 @@
 | Red gum | 14.2 | |
 | SGRS | 5.6 | |
 
-## Green star #2
+## Green star 2
 
 ### Composition
 
@@ -1033,7 +1334,7 @@
 | Potassium chlorate | 44 | |
 | Shellac | 12 | |
 
-## Green star #3
+## Green star 3
 
 ### Composition
 
@@ -1043,7 +1344,7 @@
 | Magnesium | 32 | lab grade powder|
 | Parlon | 18 | or PVC|
 
-## Green star #4
+## Green star 4
 
 ### Composition
 
@@ -1054,7 +1355,7 @@
 | Ammonium perchlorate | 25 | |
 | Parlon | 17 | or PVC|
 
-## Green star #5
+## Green star 5
 
 ### Composition
 
@@ -1066,7 +1367,7 @@
 | Sulfur | 4 | |
 | Boric acid | 2 | |
 
-## Green star #6
+## Green star 6
 
 ### Composition
 
@@ -1081,7 +1382,7 @@
 | Boric acid | 2 | |
 | Dextrin | 2 | |
 
-## Green star #7
+## Green star 7
 
 ### Composition
 
@@ -1091,7 +1392,7 @@
 | Barium nitrate | 35 | |
 | Shellac | 15 | |
 
-## Green star #8
+## Green star 8
 
 ### Composition
 
@@ -1101,7 +1402,7 @@
 | Lampblack | 10 | |
 | Shellac | 10 | |
 
-## Green star #9
+## Green star 9
 
 ### Composition
 
@@ -1112,7 +1413,7 @@
 | Shellac | 12 | |
 | Dextrin | 4 | |
 
-## Green star #10
+## Green star 10
 
 ### Composition
 
@@ -1124,7 +1425,7 @@
 | Barium nitrate | 50 | |
 | Charcoal | 10 | |
 
-## Green star #11
+## Green star 11
 
 ### Composition
 
@@ -1136,7 +1437,7 @@
 | Dextrin | 6.9 | |
 | Shellac | 3.4 | |
 
-## Green star #12
+## Green star 12
 
 ### Composition
 
@@ -1150,7 +1451,7 @@
 | Dextrin | 6 | |
 | Sulfur | 5 | |
 
-## Green star #13
+## Green star 13
 
 ### Composition
 
@@ -1164,7 +1465,7 @@
 | Dextrin | 3 | |
 | Aluminium | 5 | |
 
-## Green star #14
+## Green star 14
 
 ### Composition
 
@@ -1200,7 +1501,7 @@
 | Red gum | 6 | |
 | Dextrin | 5 | |
 
-## Hall strobe #1
+## Hall strobe 1
 
 ### Composition
 
@@ -1211,7 +1512,7 @@
 | Aluminium | 6 | fine flake |
 | Sulfur | 51 | |
 
-## Hall strobe #2
+## Hall strobe 2
 
 ### Composition
 
@@ -1260,7 +1561,7 @@
 | Red gum | 10 | |
 | Dextrin | 5 | |
 
-## Jennings White blue #1
+## Jennings White blue 1
 
 ### Composition
 
@@ -1271,7 +1572,7 @@
 | Copper | 10 | I|
 | Dextrin | 5 | |
 
-## Jennings White blue #2
+## Jennings White blue 2
 
 ### Composition
 
@@ -1355,7 +1656,7 @@
 | Red gum | 14 | |
 | Dextrin | 4 | |
 
-## Lancaster chlorate blue #1
+## Lancaster chlorate blue 1
 
 ### Composition
 
@@ -1366,7 +1667,7 @@
 | Paris green | 22 | |
 | Dextrin | 4 | |
 
-## Lancaster chlorate blue #2
+## Lancaster chlorate blue 2
 
 ### Composition
 
@@ -1400,7 +1701,7 @@
 | Aluminium | 7 | |
 | Boric acid | 1 | |
 
-## Lancaster Gold star #1
+## Lancaster Gold star 1
 
 ### Composition
 
@@ -1412,7 +1713,7 @@
 | Charcoal | 20 | 150 mesh|
 | Dextrin | 7 | |
 
-## Lancaster Gold star #2
+## Lancaster Gold star 2
 
 ### Composition
 
@@ -1423,7 +1724,7 @@
 | Lampblack | 23 | |
 | Red gum | 3 | |
 
-## Lancaster Gold star #3
+## Lancaster Gold star 3
 
 ### Composition
 
@@ -1436,7 +1737,7 @@
 | Dextrin | 6 | |
 | Shellac | 3 | 120 mesh|
 
-## Lancaster green star #1
+## Lancaster green star 1
 
 ### Composition
 
@@ -1448,7 +1749,7 @@
 | Charcoal | 5 | |
 | Dextrin | 4 | |
 
-## Lancaster green star #2
+## Lancaster green star 2
 
 ### Composition
 
@@ -1460,7 +1761,7 @@
 | Charcoal | 8 | |
 | Dextrin | 4 | |
 
-## Lancaster green star #3
+## Lancaster green star 3
 
 ### Composition
 
@@ -1473,7 +1774,7 @@
 | Red gum | 17 | |
 | Dextrin | 3 | |
 
-## Lancaster green star #4
+## Lancaster green star 4
 
 ### Composition
 
@@ -1488,7 +1789,7 @@
 | Aluminium | 19 | bright|
 | Dextrin | 5 | |
 
-## Lancaster metalic fire dust #1
+## Lancaster metalic fire dust 1
 
 ### Composition
 
@@ -1499,7 +1800,7 @@
 | Aluminium | 19 | |
 | Dextrin | 6 | |
 
-## Lancaster metalic fire dust #2
+## Lancaster metalic fire dust 2
 
 ### Composition
 
@@ -1512,7 +1813,7 @@
 | Meal powder | 5 | |
 | Dextrin | 5 | |
 
-## Lancaster metalic fire dust #3
+## Lancaster metalic fire dust 3
 
 ### Composition
 
@@ -1525,7 +1826,7 @@
 | Boric acid | 1 | |
 | Dextrin | 6 | |
 
-## Lancaster metalic fire dust #4
+## Lancaster metalic fire dust 4
 
 ### Composition
 
@@ -1536,7 +1837,7 @@
 | Aluminium | 14 | 30|
 | Shellac | 8 | |
 
-## Lancaster metalic fire dust #5
+## Lancaster metalic fire dust 5
 
 ### Composition
 
@@ -1547,7 +1848,7 @@
 | Aluminium | 4 | dark pyro|
 | Shellac | 8 | |
 
-## Lancaster Red #2
+## Lancaster Red 2
 
 ### Composition
 
@@ -1559,7 +1860,7 @@
 | Aluminium | 6 | bright|
 | Aluminium | 6 | flitter 80|
 
-## Lancaster Red #3
+## Lancaster Red 3
 
 ### Composition
 
@@ -1584,7 +1885,7 @@
 | Aluminium | 10 | flitter 30|
 | Magnesium | 3 | |
 
-## Lancaster white star #1
+## Lancaster white star 1
 
 ### Composition
 
@@ -1597,7 +1898,7 @@
 | Charcoal | 3 | |
 | Dextrin | 3 | |
 
-## Lancaster white star #2
+## Lancaster white star 2
 
 ### Composition
 
@@ -1609,7 +1910,7 @@
 | Aluminium | 21 | dark pyro|
 | Barium fluoride | 6 | |
 
-## Lancaster white star #3
+## Lancaster white star 3
 
 ### Composition
 
@@ -1621,7 +1922,7 @@
 | Meal powder | 7 | |
 | Aluminium | 25 | dark pyro|
 
-## Lancaster yellow star #1
+## Lancaster yellow star 1
 
 ### Composition
 
@@ -1633,7 +1934,7 @@
 | Charcoal | 1 | |
 | Dextrin | 4 | |
 
-## Lancaster yellow star #2
+## Lancaster yellow star 2
 
 ### Composition
 
@@ -1645,7 +1946,7 @@
 | Dextrin | 4 | |
 | Shellac | 6 | 60 mesh|
 
-## Lancaster yellow star #3
+## Lancaster yellow star 3
 
 ### Composition
 
@@ -1655,7 +1956,7 @@
 | Sodium oxalate | 26 | |
 | Shellac | 14 | 60 mesh|
 
-## Lancaster yellow star #4
+## Lancaster yellow star 4
 
 ### Composition
 
@@ -1668,7 +1969,7 @@
 | Boric acid | 1 | |
 | Sulfur | 5 | |
 
-## Lancaster yellow star #5
+## Lancaster yellow star 5
 
 ### Composition
 
@@ -1730,7 +2031,7 @@
 | Aluminium | 10 | 12 micron|
 | Dextrin | 8 | |
 
-## Orange star #1
+## Orange star 1
 
 ### Composition
 
@@ -1742,7 +2043,7 @@
 | Shellac | 5 | |
 | Sulfur | 3 | |
 
-## Orange star #2
+## Orange star 2
 
 ### Composition
 
@@ -1763,7 +2064,7 @@
 | Sculpy | 23 | |
 | Iron oxide | 2 | Red|
 
-## Perigrin orange star #1
+## Perigrin orange star 1
 
 ### Composition
 
@@ -1776,7 +2077,7 @@
 | PVC | 2 | |
 | Dextrin | 5 | |
 
-## Perigrin orange star #2
+## Perigrin orange star 2
 
 ### Composition
 
@@ -1789,7 +2090,7 @@
 | Dextrin | 5 | |
 | Sodium oxalate | 3 | |
 
-## Perigrin orange star #3
+## Perigrin orange star 3
 
 ### Composition
 
@@ -1814,7 +2115,7 @@
 | Sodium oxalate | 10 | |
 | Dextrin | 5 | |
 
-## Pihko blue star #1
+## Pihko blue star 1
 
 ### Composition
 
@@ -1825,7 +2126,7 @@
 | Copper | 20 | II|
 | Red gum | 6 | |
 
-## Pihko blue star #2
+## Pihko blue star 2
 
 ### Composition
 
@@ -1836,7 +2137,7 @@
 | Red gum | 10 | or Shellac|
 | Parlon | 14 | or PVC|
 
-## Pihko blue star #3
+## Pihko blue star 3
 
 ### Composition
 
@@ -1848,7 +2149,7 @@
 | Red gum | 7 | |
 | Parlon | 12 | or PVC|
 
-## Pihko blue star #4
+## Pihko blue star 4
 
 ### Composition
 
@@ -1871,7 +2172,7 @@
 | Copper | 13 | II|
 | Red gum | 10 | |
 
-## Pihko yellow star #1
+## Pihko yellow star 1
 
 ### Composition
 
@@ -1881,7 +2182,7 @@
 | Sodium bicarbonate | 20 | |
 | Dextrin | 20 | |
 
-## Purple star #1
+## Purple star 1
 
 ### Composition
 
@@ -1894,7 +2195,7 @@
 | Charcoal | 2 | |
 | Sulfur | 12 | |
 
-## Purple star #2
+## Purple star 2
 
 ### Composition
 
@@ -1917,7 +2218,7 @@
 | Red gum | 13 | |
 | Dextrin | 4 | |
 
-## Red star #2
+## Red star 2
 
 ### Composition
 
@@ -1927,7 +2228,7 @@
 | Strontium nitrate | 60 | |
 | Shellac | 20 | |
 
-## Red star #3
+## Red star 3
 
 ### Composition
 
@@ -1937,7 +2238,7 @@
 | Strontium carbonate | 15 | |
 | Shellac | 20 | |
 
-## Red star #4
+## Red star 4
 
 ### Composition
 
@@ -1949,7 +2250,7 @@
 | Shellac | 5 | |
 | PVC | 8 | or Saran|
 
-## Red star #5
+## Red star 5
 
 ### Composition
 
@@ -1963,7 +2264,7 @@
 | Red gum | 16 | |
 | Dextrin | 4 | |
 
-## Red star #6
+## Red star 6
 
 ### Composition
 
@@ -1974,7 +2275,7 @@
 | Sulfur | 9.5 | |
 | Lampblack | 4.9 | |
 
-## Red star #7
+## Red star 7
 
 ### Composition
 
@@ -1987,7 +2288,7 @@
 | Antimony trisulfide | 5 | |
 | Charcoal | 12 | |
 
-## Red star #8
+## Red star 8
 
 ### Composition
 
@@ -1999,7 +2300,7 @@
 | Charcoal | 2 | 150 mesh|
 | Dextrin | 4 | |
 
-## Red star #9
+## Red star 9
 
 ### Composition
 
@@ -2009,7 +2310,7 @@
 | Magnesium | 28 | |
 | PVC | 17 | |
 
-## Red star #10
+## Red star 10
 
 ### Composition
 
@@ -2197,7 +2498,7 @@
 | Oil orange | 22 | |
 | SGRS | 3 | |
 
-## Shimizu Red star #1
+## Shimizu Red star 1
 
 ### Composition
 
@@ -2337,7 +2638,7 @@
 | Charcoal | 4 | Hemp or Paulownia|
 | SGRS | 6 | |
 
-## Silver shower star #1
+## Silver shower star 1
 
 ### Composition
 
@@ -2353,7 +2654,7 @@
 | Dextrin | 5 | |
 | Boric acid | 2 | |
 
-## Silver shower star #2
+## Silver shower star 2
 
 ### Composition
 
@@ -2363,7 +2664,7 @@
 | Aluminium | 22 | fine or flake|
 | Shellac | 18 | |
 
-## Silver shower star #3
+## Silver shower star 3
 
 ### Composition
 
@@ -2484,7 +2785,7 @@
 | Copper sulfate | 17 | |
 | Potassium dichromate | 5 | |
 
-## Twinkling green star #1
+## Twinkling green star 1
 
 ### Composition
 
@@ -2494,7 +2795,7 @@
 | Barium sulfate | 17 | |
 | Magnesium | 23 | lab grade powder|
 
-## Twinkling green star #2
+## Twinkling green star 2
 
 ### Composition
 
@@ -2505,7 +2806,7 @@
 | Magnesium | 23 | |
 | Potassium dichromate | 5 | |
 
-## Twinkling green star #3
+## Twinkling green star 3
 
 ### Composition
 
@@ -2542,7 +2843,7 @@
 | Strontium sulfate | 20 | |
 | Potassium dichromate | 5 | |
 
-## Twinkling white star #1
+## Twinkling white star 1
 
 ### Composition
 
@@ -2554,7 +2855,7 @@
 | Potassium nitrate | 7 | |
 | Dextrin | 2 | |
 
-## Twinkling white star #2
+## Twinkling white star 2
 
 ### Composition
 
@@ -2565,7 +2866,7 @@
 | Barium sulfate | 15 | |
 | Potassium dichromate | 5 | |
 
-## Twinkling yellow star #1
+## Twinkling yellow star 1
 
 ### Composition
 
@@ -2576,7 +2877,7 @@
 | Sodium sulfate | 10 | |
 | Potassium dichromate | 5 | |
 
-## Twinkling yellow star #2
+## Twinkling yellow star 2
 
 ### Composition
 
@@ -2770,7 +3071,7 @@
 | Potassium nitrate | 71 | |
 | Magnesium | 29 | 100|
 
-## White comet #1
+## White comet 1
 
 ### Composition
 
@@ -2781,7 +3082,7 @@
 | Sulfur | 9 | |
 | Dextrin | 6 | |
 
-## White comet #2
+## White comet 2
 
 ### Composition
 
@@ -2819,7 +3120,7 @@
 | Aluminium | 26 | fine flake|
 | Dextrin | 3 | |
 
-## White star #1
+## White star 1
 
 ### Composition
 
@@ -2829,7 +3130,7 @@
 | Aluminium | 40 | |
 | Dextrin | 2 | |
 
-## White star #2
+## White star 2
 
 ### Composition
 
@@ -2840,7 +3141,7 @@
 | Sulfur | 16 | |
 | Charcoal | 12 | |
 
-## White star #3
+## White star 3
 
 ### Composition
 
@@ -2849,7 +3150,7 @@
 | Potassium perchlorate | 67 | |
 | Aluminium | 33 | |
 
-## White star #4
+## White star 4
 
 ### Composition
 
@@ -2860,7 +3161,7 @@
 | Magnesium | 28 | 100|
 | Parlon | 7 | |
 
-## White star #5
+## White star 5
 
 ### Composition
 
@@ -2870,7 +3171,7 @@
 | Magnesium | 20 | |
 | PVC | 20 | |
 
-## White star #6
+## White star 6
 
 ### Composition
 
@@ -2880,7 +3181,7 @@
 | Sulfur | 30 | |
 | Meal powder | 11 | |
 
-## White star #7
+## White star 7
 
 ### Composition
 
@@ -2890,7 +3191,7 @@
 | Aluminium | 31 | |
 | Lycopodium | 8 | |
 
-## White star #8
+## White star 8
 
 ### Composition
 
@@ -2900,7 +3201,7 @@
 | Sulfur | 11.1 | |
 | Antimony trisulfide | 22.3 | |
 
-## White star #10
+## White star 10
 
 ### Composition
 
@@ -2911,7 +3212,7 @@
 | Sulfur | 18.4 | |
 | Dextrin | 3.4 | |
 
-## White star #11
+## White star 11
 
 ### Composition
 
@@ -2950,7 +3251,7 @@
 | Sulfur | 2.94 | |
 | Lampblack | 52.94 | |
 
-## Winokur #1
+## Winokur 1
 
 ### Composition
 
@@ -2964,7 +3265,7 @@
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
 
-## Winokur #2
+## Winokur 2
 
 ### Composition
 
@@ -2978,7 +3279,7 @@
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
 
-## Winokur #3
+## Winokur 3
 
 ### Composition
 
@@ -2992,7 +3293,7 @@
 | Strontium carbonate | 6 | |
 | Dextrin | 4 | |
 
-## Winokur #4
+## Winokur 4
 
 ### Composition
 
@@ -3006,7 +3307,7 @@
 | Sodium oxalate | 6 | |
 | Dextrin | 4 | |
 
-## Winokur #5
+## Winokur 5
 
 ### Composition
 
@@ -3021,7 +3322,7 @@
 | Sodium oxalate | 8 | |
 | Dextrin | 4 | |
 
-## Winokur #6
+## Winokur 6
 
 ### Composition
 
@@ -3034,7 +3335,7 @@
 | Aluminium | 4.5 | bright |
 | Dextrin | 4.5 | |
 
-## Winokur #7
+## Winokur 7
 
 ### Composition
 
@@ -3048,7 +3349,7 @@
 | Sodium oxalate | 8 | |
 | Dextrin | 4 | |
 
-## Winokur #8
+## Winokur 8
 
 ### Composition
 
@@ -3062,7 +3363,7 @@
 | Iron oxide | 6 | Red|
 | Dextrin | 4 | |
 
-## Winokur #9
+## Winokur 9
 
 ### Composition
 
@@ -3076,7 +3377,7 @@
 | Antimony trisulfide | 9 | |
 | Dextrin | 4 | |
 
-## Winokur #10
+## Winokur 10
 
 ### Composition
 
@@ -3089,7 +3390,7 @@
 | Charcoal | 10 | Airfloat|
 | Dextrin | 4 | |
 
-## Winokur #11
+## Winokur 11
 
 ### Composition
 
@@ -3102,7 +3403,7 @@
 | Charcoal | 10 | Airfloat|
 | Dextrin | 5 | |
 
-## Winokur #12
+## Winokur 12
 
 ### Composition
 
@@ -3116,7 +3417,7 @@
 | Dextrin | 5 | |
 | Iron oxide | 1 | Red|
 
-## Winokur #13
+## Winokur 13
 
 ### Composition
 
@@ -3130,7 +3431,7 @@
 | Dextrin | 4 | |
 | Magnalium | 3 | Granular |
 
-## Winokur #14
+## Winokur 14
 
 ### Composition
 
@@ -3145,7 +3446,7 @@
 | Sodium bicarbonate | 5 | |
 | Magnalium | 4 | Granular |
 
-## Winokur #15
+## Winokur 15
 
 ### Composition
 
@@ -3159,7 +3460,7 @@
 | Sodium bicarbonate | 7 | |
 | Dextrin | 4 | |
 
-## Winokur #16
+## Winokur 16
 
 ### Composition
 
@@ -3173,7 +3474,7 @@
 | Sodium bicarbonate | 7 | |
 | Dextrin | 4 | |
 
-## Winokur #17
+## Winokur 17
 
 ### Composition
 
@@ -3186,7 +3487,7 @@
 | Antimony trisulfide | 10 | |
 | Dextrin | 5 | |
 
-## Winokur #18
+## Winokur 18
 
 ### Composition
 
@@ -3199,7 +3500,7 @@
 | Antimony trisulfide | 7 | |
 | Dextrin | 5 | |
 
-## Winokur #19
+## Winokur 19
 
 ### Composition
 
@@ -3212,7 +3513,7 @@
 | Sodium bicarbonate | 6 | |
 | Dextrin | 4 | |
 
-## Winokur #20
+## Winokur 20
 
 ### Composition
 
@@ -3226,7 +3527,7 @@
 | Iron oxide | 4 | Red|
 | Dextrin | 4 | |
 
-## Winokur #21
+## Winokur 21
 
 ### Composition
 
@@ -3240,7 +3541,7 @@
 | Sodium bicarbonate | 6 | |
 | Dextrin | 5 | |
 
-## Winokur #22
+## Winokur 22
 
 ### Composition
 
@@ -3254,7 +3555,7 @@
 | Antimony trisulfide | 4 | |
 | Dextrin | 4 | |
 
-## Winokur #23
+## Winokur 23
 
 ### Composition
 
@@ -3267,7 +3568,7 @@
 | Sodium bicarbonate | 8 | |
 | Dextrin | 4 | |
 
-## Winokur #24
+## Winokur 24
 
 ### Composition
 
@@ -3280,7 +3581,7 @@
 | Sodium chloride | 6 | |
 | Dextrin | 5 | |
 
-## Winokur #25
+## Winokur 25
 
 ### Composition
 
@@ -3294,7 +3595,7 @@
 | Iron oxide | 5 | Red|
 | Dextrin | 5 | |
 
-## Winokur #26
+## Winokur 26
 
 ### Composition
 
@@ -3307,7 +3608,7 @@
 | Iron oxide | 6 | Red|
 | Dextrin | 6 | |
 
-## Winokur #27
+## Winokur 27
 
 ### Composition
 
@@ -3321,7 +3622,7 @@
 | Sodium bicarbonate | 9 | |
 | Dextrin | 4 | |
 
-## Winokur #28
+## Winokur 28
 
 ### Composition
 
@@ -3336,7 +3637,7 @@
 | Antimony trisulfide | 10 | |
 | Charcoal | 9 | airfloat|
 
-## Winokur #29
+## Winokur 29
 
 ### Composition
 
@@ -3351,7 +3652,7 @@
 | Dextrin | 4 | |
 | Aluminium | 1 | Flake|
 
-## Winokur #30
+## Winokur 30
 
 ### Composition
 
@@ -3366,7 +3667,7 @@
 | Aluminium | 4 | Flake|
 | Dextrin | 4 | |
 
-## Winokur #31
+## Winokur 31
 
 ### Composition
 
@@ -3381,7 +3682,7 @@
 | Iron oxide | 4 | Red|
 | Barium carbonate | 4 | |
 
-## Winokur #32
+## Winokur 32
 
 ### Composition
 
@@ -3395,7 +3696,7 @@
 | Iron oxide | 8 | Red|
 | Dextrin | 5 | |
 
-## Winokur #33
+## Winokur 33
 
 ### Composition
 
@@ -3409,7 +3710,7 @@
 | Iron oxide | 7 | Red|
 | Dextrin | 4 | |
 
-## Winokur #34
+## Winokur 34
 
 ### Composition
 
@@ -3422,7 +3723,7 @@
 | Sulfur | 10 | |
 | Dextrin | 5 | |
 
-## Winokur #35
+## Winokur 35
 
 ### Composition
 
@@ -3436,7 +3737,7 @@
 | Iron oxide | 8 | Red|
 | Dextrin | 5 | |
 
-## Winokur #36
+## Winokur 36
 
 ### Composition
 
@@ -3450,7 +3751,7 @@
 | Iron oxide | 10 | Red|
 | Dextrin | 4 | |
 
-## Winokur #37
+## Winokur 37
 
 ### Composition
 
@@ -3465,7 +3766,7 @@
 | Dextrin | 4 | |
 | Barium carbonate | 2 | |
 
-## Winokur #38
+## Winokur 38
 
 ### Composition
 
@@ -3479,7 +3780,7 @@
 | Iron oxide | 7 | Red|
 | Dextrin | 4 | |
 
-## Winokur #39
+## Winokur 39
 
 ### Composition
 
@@ -3494,7 +3795,7 @@
 | Iron oxide | 4 | Red|
 | Barium carbonate | 4 | |
 
-## Winokur #40
+## Winokur 40
 
 ### Composition
 
@@ -3534,7 +3835,7 @@
 | Dextrin | 4 | |
 | Boric acid | 1 | |
 
-## Yellow star #1
+## Yellow star 1
 
 ### Composition
 
@@ -3544,7 +3845,7 @@
 | Sodium carbonate | 20 | hydrogen|
 | Dextrin | 20 | |
 
-## Yellow star #2
+## Yellow star 2
 
 ### Composition
 
@@ -3554,7 +3855,7 @@
 | Sodium oxalate | 23.1 | |
 | Lampblack | 15.3 | |
 
-## Yellow star #3
+## Yellow star 3
 
 ### Composition
 
@@ -3565,7 +3866,7 @@
 | Shellac | 13.3 | |
 | Dextrin | 6.7 | |
 
-## Yellow star #4
+## Yellow star 4
 
 ### Composition
 
@@ -3577,7 +3878,7 @@
 | Charcoal | 10 | |
 | Rosin | 2 | |
 
-## Yellow star #5
+## Yellow star 5
 
 ### Composition
 
@@ -3589,7 +3890,7 @@
 | Sodium nitrate | 7 | |
 | SGRS | 5 | |
 
-## Yellow star #8
+## Yellow star 8
 
 ### Composition
 
@@ -3612,7 +3913,7 @@
 | PVC | 10 | |
 | Lampblack | 2 | or Paulownia|
 
-## Zinc spreader star #1
+## Zinc spreader star 1
 
 ### Composition
 
@@ -3624,7 +3925,7 @@
 | Charcoal | 12 | granular|
 | Dextrin | 2 | |
 
-## Zinc spreader star #2
+## Zinc spreader star 2
 
 ### Composition
 
@@ -3635,7 +3936,7 @@
 | Charcoal | 10.77 | |
 | Sulfur | 6.15 | |
 
-## Zinc spreader star #3
+## Zinc spreader star 3
 
 ### Composition
 

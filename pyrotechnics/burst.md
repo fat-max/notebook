@@ -1,5 +1,59 @@
 # Burst charges
 
+## Index
+
+- [Allen chlorate report #1](#allen-chlorate-report-1)
+- [Allen chlorate report #2](#allen-chlorate-report-2)
+- [Allen chlorate report #3](#allen-chlorate-report-3)
+- [Allen chlorate report #4](#allen-chlorate-report-4)
+- [Allen chlorate report #5](#allen-chlorate-report-5)
+- [Allen chlorate report #6](#allen-chlorate-report-6)
+- [Allen chlorate report #7](#allen-chlorate-report-7)
+- [Allen report formula #1](#allen-report-formula-1)
+- [Allen report formula #2](#allen-report-formula-2)
+- [Allen report formula #3](#allen-report-formula-3)
+- [Ammonium black powder](#ammonium-black-powder)
+- [Armostrong mix](#armostrong-mix)
+- [Black Powder (Perchlorate)](#black-powder-perchlorate)
+- [BP - Blasting-specific](#bp-blasting-specific)
+- [BP - Firearms-specific](#bp-firearms-specific)
+- [BP - General purpose](#bp-general-purpose)
+- [BP - Military-specific](#bp-military-specific)
+- [Brugere powder](#brugere-powder)
+- [Chlorate based report #1](#chlorate-based-report-1)
+- [Chlorate based report #2](#chlorate-based-report-2)
+- [Chlorate based report #3](#chlorate-based-report-3)
+- [Craig report formula](#craig-report-formula)
+- [Davis chlorate report](#davis-chlorate-report)
+- [Davis report formula #1](#davis-report-formula-1)
+- [Davis report formula #2](#davis-report-formula-2)
+- [Degn report formula](#degn-report-formula)
+- [Faber chlorate report](#faber-chlorate-report)
+- [Gold Dust Powder](#gold-dust-powder)
+- [H3](#h3)
+- [H3 Bursting charge](#h3-bursting-charge)
+- [Hitt report formula #1](#hitt-report-formula-1)
+- [Hitt report formula #2](#hitt-report-formula-2)
+- [KP](#kp)
+- [Lang report formula](#lang-report-formula)
+- [Ofca bursting charge](#ofca-bursting-charge)
+- [Potassium perchlorate bursting charge #1](#potassium-perchlorate-bursting-charge 1)
+- [Potassium perchlorate bursting charge #2](#potassium-perchlorate-bursting-charge 2)
+- [Potassium perchlorate bursting charge #3](potassium-perchlorate-bursting-charge 3)
+- [Psm report formula](#psm-report-formula)
+- [Red Explosive](#red explosive)
+- [Rozzi chlorate report](#rozzi-chlorate-report)
+- [Rozzi small shell burst #1](#rozzi-small-shell-burst 1)
+- [Rozzi small shell burst #2](#rozzi-small-shell-burst 2)
+- [Shimizu H3](#shimizu-h3)
+- [Sulfurless powders](#sulfurless-powders)
+- [Toy Pistol Cap](#toy-pistol-cap)
+- [Weingart chlorate report #1](#weingart-chlorate-report-1)
+- [Weingart chlorate report #2](#weingart-chlorate-report-2)
+- [Weingart chlorate report #3](#weingart-chlorate-report-3)
+- [Yellow powder](#yellow-powder)
+
+
 ## Allen chlorate report #1
 
 ### Composition
@@ -266,8 +320,6 @@
 
 ## Exploding target composition
 
-| Substance | Amount | Note |
-|-----------|--------|------|
 ### Composition
 
 | Substance | Amount | Note |
